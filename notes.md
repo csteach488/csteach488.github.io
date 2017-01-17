@@ -16,8 +16,6 @@ Course notes and material will be added to this page during the semester.
 
 This material will be updated on a weekly basis.
 
-#### Notes
-
 ***
 
 ##### Week 1 - 18th January 2017

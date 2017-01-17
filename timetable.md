@@ -21,12 +21,12 @@ This class will meet at the following time and place,
 
 #### Important Dates
 
-* Ash Wednesday: Wednesday 1st March 2017
+* DEV Week begins: Wednesday 1st March 2017
   * **n.b.** no formal class: 1st March 2017
 * Spring break: 6th to 11th March 2017
   * **n.b.** no formal class: 8th March 2017
-* DEV week: 1st March to 15th March 2017
-  * DEV week presentation due on Wednesday 15th March 2017 @ 2.45pm
+* DEV Week: 1st March to 15th March 2017
+  * DEV Week presentation due on Wednesday 15th March 2017 @ 2.45pm
 * Final class: 26th April 2017
   * Final presentation due on Wednesday 26th April 2017 @ 2.45pm
 * Exam week: 1st May to 6th May 2017

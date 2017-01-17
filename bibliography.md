@@ -16,11 +16,9 @@ The course 'bibliography & references' will be updated on a weekly basis with su
 
 References will be cited at the end of each week's notes.
 
-#### Bibliography & References
-
 There is no specific textbook for this course.
 
-<br />
+***
 
 ##### Week 1 - 18th January 2017
 <!--

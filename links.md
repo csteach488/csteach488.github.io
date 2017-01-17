@@ -20,19 +20,19 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-#### Articles & Papers
+##### Articles & Papers
 
   * ...
 
-#### Documentation & Guides
+##### Documentation & Guides
 
   * ...
 
-#### Frameworks & Libraries (a few examples)
+##### Frameworks & Libraries (a few examples)
 
   * ...
 
-#### Mockup & Prototype Tools - a few examples
+##### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
   * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
@@ -45,19 +45,19 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
-#### Useful Tools & Reference
+##### Useful Tools & Reference
 
   * ...
 
-#### Various
+##### Various
 
   * ,,,
 
-#### Videos
+##### Videos
 
   * ...
 
-#### Websites
+##### Websites
 
   * ...
 
