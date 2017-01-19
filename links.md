@@ -20,6 +20,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
+<!--
 ##### Articles & Papers
 
   * ...
@@ -31,6 +32,7 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Frameworks & Libraries (a few examples)
 
   * ...
+-->
 
 ##### Mockup & Prototype Tools - a few examples
 
@@ -45,6 +47,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
+<!--
 ##### Useful Tools & Reference
 
   * ...
@@ -60,6 +63,7 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Websites
 
   * ...
+-->
 
 ***
 
