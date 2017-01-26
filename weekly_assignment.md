@@ -18,6 +18,28 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 2 - 25th January 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) recommendations
+* Please ensure you've updated the [Week 1 - Project Details](https://trello.com/b/QEYVLU7m/week-1-project-details) board with your group's project details
+* Add the following details to the [Week 2 - Inspiration & Goals](https://trello.com/b/HaMepn9S/week-2-inspiration-goals) board on the course's Trello group
+  * what was the inspiration for your initial game outline and concept?
+  * briefly outline any games that helped to inspire this initial game concept?
+  * how would you describe the initial player goals for this game concept?
+
+Further instructions are available on the [Week 2](https://trello.com/b/HaMepn9S/week-2-inspiration-goals) board.
+
+Any questions, please let me know.
+
+**n.b.** don't forget to watch the [Ted Pixar video](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life) and play one of the games listed in this week's course notes,
+
+  * [Microsoft's Space Simulator - 1994](https://archive.org/details/msdos_Microsoft_Space_Simulator_1994)
+  * [President Elect - 1988 Editions](https://archive.org/details/msdos_President_Elect_-_1988_Edition_1987)
+  * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
+  * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
+
+Enjoy your week.
+
 ##### Week 1 - 18th January 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) recommendations

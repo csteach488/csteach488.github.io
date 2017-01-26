@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 2 - 25th January 2017
+  * [course](/assets/docs/Comp488-week2.pdf)
+
 ##### Week 1 - 18th January 2017
   * [course](/assets/docs/Comp488-week1.pdf)
   * extras
