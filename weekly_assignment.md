@@ -18,6 +18,24 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 3 - 1st February 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) recommendations
+* Add the following details to the [Week 3 - Goals & Focus](https://trello.com/b/v8PRiv9A/week-3-goals-focus) board on the course's Trello group
+  * outline and describe **design and development** goals for your game
+    * how do these goals differ, for example, from your game's defined **player experience** goals?
+  * define the top five selling points for your game
+    * e.g. imagine you're trying to sell your game idea to investors and playtesters
+    * how would you convince them it is a worthwhile game concept?
+
+Further instructions are available on the [Week 3](https://trello.com/b/v8PRiv9A/week-3-goals-focus) board.
+
+Any questions, please let me know.
+
+**n.b.** if you have time this week, try to play a game designed by Shigeru Miyamoto.
+
+Enjoy your week.
+
 ##### Week 2 - 25th January 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) recommendations

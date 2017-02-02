@@ -20,6 +20,12 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 3 - 1st February 2017
+
+* develop. *EA at Grand Rapids*. http://www.develop-online.net/tools-and-tech/grand-rapids/0116020. 2007.
+* David, S. *Game Over: How Nintendo Conquered the World.* Vintage Books. New York. 1994. P.51.
+* Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
+
 ##### Week 2 - 25th January 2017
 
 * Carroll, J.M. *Making use: Scenario-based design of human-computer interactions.* MIT Press. 2000.

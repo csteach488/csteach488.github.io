@@ -24,6 +24,10 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * Mayer, R.E., Mautone, P., and Prothero, W. *Pictorial aids for learning by doing in a multimedia geology simulation game.* Journal of Educational Psychology 94. 2002. PP.171-185.
 
+##### Designers & Developers
+
+  * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
+
 <!--
 ##### Documentation & Guides
 
@@ -34,12 +38,21 @@ If you have any suggestions for additions to this section of the site, please fe
   * ...
 -->
 
-##### Games - play online
+##### Games - play & stream online
+
+<!--
+  * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
+-->
 
   * [Microsoft's Space Simulator - 1994](https://archive.org/details/msdos_Microsoft_Space_Simulator_1994)
   * [President Elect - 1988 Editions](https://archive.org/details/msdos_President_Elect_-_1988_Edition_1987)
   * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
+
+<!--
+  * [Space Invaders - Sega and Taito](https://archive.org/details/Space_Invaders_1985_Sega_Taito)
+-->
+
   * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
 
 ##### Mockup & Prototype Tools - a few examples
@@ -69,7 +82,13 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Videos - notes &c.
 
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
+  * Paper Prototyping
+    * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
+    * [detailed concept 1](https://www.youtube.com/watch?list=PL_g8_Y7x37oTYonjybtbxl83KTDpviWBR&v=x48qOA2Z_xQ)
+    * [detailed concept 2](https://www.youtube.com/watch?v=64vZ76XM5mQ)
+  * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
   * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
+  * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 
 ##### Videos - various
@@ -82,12 +101,23 @@ If you have any suggestions for additions to this section of the site, please fe
     * Climbing in Yosemite valley...
   * [Video Games: The Movie](http://videogamesthemovie.com/)
 
-##### Websites - Games
+##### Websites - games
 
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+
+<!--
+  * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
+-->
+
+  * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+
+##### Websites - various
+
+  * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
+  * [Global Game Jam](http://globalgamejam.org/)
 
 ***
 
