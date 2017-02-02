@@ -21,8 +21,8 @@ This material will be updated on a weekly basis.
 ##### Week 3 - 1st February 2017
   * [course](/assets/docs/Comp488-week3.pdf)
   * extras
-    * [Python & Pygame setup - OS X]()
-    * [Python & Pygame setup - Windows 10]()
+    * [Python & Pygame setup - OS X](/assets/docs/extras/python-install-setup-osx.pdf)
+    * [Python & Pygame setup - Windows 10](/assets/docs/extras/python-install-setup-windows.pdf)
 
 ##### Week 2 - 25th January 2017
   * [course](/assets/docs/Comp488-week2.pdf)

@@ -19,7 +19,9 @@ summary: weekly assignment for COMP 488
 ***
 
 ##### Week 3 - 1st February 2017
-* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * [Python & Pygame setup - OS X](/assets/docs/extras/python-install-setup-osx.pdf)
+  * [Python & Pygame setup - Windows 10](/assets/docs/extras/python-install-setup-windows.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Add the following details to the [Week 3 - Goals & Focus](https://trello.com/b/v8PRiv9A/week-3-goals-focus) board on the course's Trello group
   * outline and describe **design and development** goals for your game
