@@ -20,6 +20,14 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 4 - 8th February 2017
+
+* Suits, B. *The Grasshopper: Games, Life and Utopia*. Broadview Press. 3rd Edition. 2014.
+* Wikipedia
+  * [Draughts](https://en.wikipedia.org/wiki/Draughts)
+  * [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
+  * [Zork](https://en.wikipedia.org/wiki/Zork)
+
 ##### Week 3 - 1st February 2017
 
 * develop. *EA at Grand Rapids*. http://www.develop-online.net/tools-and-tech/grand-rapids/0116020. 2007.

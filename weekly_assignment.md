@@ -18,6 +18,25 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 4 - 8th February 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - game walkthroughs
+    * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
+    * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
+  * extras - design
+    * [Flowcharts](/assets/docs/extras/game-design-dev/game-plan-flowcharts.pdf)
+  * extras - Pygame
+    * [Getting Started](/assets/docs/extras/pygame/getting-started.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 4](https://github.com/csteach488/source/tree/master/week4)
+
+Any questions, please let me know.
+
+**n.b.** if you have time this week, try to play an example of **Zork**. Playable examples are listed in the [links](/links) section.
+
+Enjoy your week.
+
 ##### Week 3 - 1st February 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * [Python & Pygame setup - OS X](/assets/docs/extras/python-install-setup-osx.pdf)

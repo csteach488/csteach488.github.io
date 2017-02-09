@@ -22,7 +22,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Articles & Papers
 
+  * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
   * Mayer, R.E., Mautone, P., and Prothero, W. *Pictorial aids for learning by doing in a multimedia geology simulation game.* Journal of Educational Psychology 94. 2002. PP.171-185.
+  * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
 
 ##### Designers & Developers
 
@@ -40,20 +42,15 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Games - play & stream online
 
-<!--
   * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
--->
-
   * [Microsoft's Space Simulator - 1994](https://archive.org/details/msdos_Microsoft_Space_Simulator_1994)
   * [President Elect - 1988 Editions](https://archive.org/details/msdos_President_Elect_-_1988_Edition_1987)
   * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
-
-<!--
   * [Space Invaders - Sega and Taito](https://archive.org/details/Space_Invaders_1985_Sega_Taito)
--->
-
   * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
+  * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
+  * [Zork 1 - Apple 2e version](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 
 ##### Mockup & Prototype Tools - a few examples
 
@@ -67,17 +64,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
-
-<!--
-##### Useful Tools & Reference
-
-  * ...
-
-##### Various
-
-  * ,,,
-
--->
 
 ##### Videos - notes &c.
 
@@ -101,18 +87,22 @@ If you have any suggestions for additions to this section of the site, please fe
     * Climbing in Yosemite valley...
   * [Video Games: The Movie](http://videogamesthemovie.com/)
 
+##### Websites - development
+
+  * [Pygame](http://www.pygame.org/lofi.html)
+  * [Python](https://www.python.org/)
+
 ##### Websites - games
 
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
+  * [Draughts](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
-
-<!--
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
--->
-
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+  * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
+    * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 
 ##### Websites - various
 

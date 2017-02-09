@@ -18,6 +18,16 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 4 - 8th February 2017
+  * [course](/assets/docs/Comp488-week4.pdf)
+  * extras - game walkthroughs
+    * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
+    * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
+  * extras - design
+    * [Flowcharts](/assets/docs/extras/game-design-dev/game-plan-flowcharts.pdf)
+  * extras - Pygame
+    * [Getting Started](/assets/docs/extras/pygame/getting-started.pdf)
+
 ##### Week 3 - 1st February 2017
   * [course](/assets/docs/Comp488-week3.pdf)
   * extras
