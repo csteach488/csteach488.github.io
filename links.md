@@ -67,6 +67,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Videos - notes &c.
 
+  * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
@@ -94,10 +95,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Websites - games
 
+  * [Abzu](http://www.505games.com/games/abzu)
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Draughts](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+  * [Journey](http://thatgamecompany.com/games/journey/)
+  * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))

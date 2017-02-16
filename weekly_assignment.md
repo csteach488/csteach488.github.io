@@ -18,6 +18,29 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 5 - 15th February 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [drawing - basic](/assets/docs/extras/pygame/drawing-basic.pdf)
+    * [drawing - moving shapes](/assets/docs/extras/pygame/drawing-moving-shapes.pdf)
+    * [colours](/assets/docs/extras/pygame/pygame-colours.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 5](https://github.com/csteach488/source/tree/master/week5)
+* Add the following details to the [Week 5 -  Character Patterns](https://trello.com/b/SrTWTtL1/week-5-character-patterns) board on the course's Trello group
+  * consider your game's characters, and define the following patterns
+      * abstract objects and attributes for all of these characters
+      * show developer pattern from abstract to specific character
+      * show relationship between character objects and attributes
+
+Further instructions are available on the [Week 5](https://trello.com/b/SrTWTtL1/week-5-character-patterns) board.
+
+Any questions, please let me know.
+
+**n.b.** if you have time this week, try to play a game designed by Peter Molyneux.
+
+Enjoy your week.
+
 ##### Week 4 - 8th February 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - game walkthroughs

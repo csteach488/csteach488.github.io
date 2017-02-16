@@ -18,6 +18,13 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 5 - 15th February 2017
+  * [course](/assets/docs/Comp488-week5.pdf)
+  * extras - Pygame
+    * [drawing - basic](/assets/docs/extras/pygame/drawing-basic.pdf)
+    * [drawing - moving shapes](/assets/docs/extras/pygame/drawing-moving-shapes.pdf)
+    * [colours](/assets/docs/extras/pygame/pygame-colours.pdf)
+
 ##### Week 4 - 8th February 2017
   * [course](/assets/docs/Comp488-week4.pdf)
   * extras - game walkthroughs
