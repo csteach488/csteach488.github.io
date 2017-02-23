@@ -18,6 +18,13 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 6 - 22nd February 2017
+  * [course](/assets/docs/Comp488-week6.pdf)
+  * extras - Pygame
+    * [animation - colour scale](/assets/docs/extras/pygame/animation-colour-scale.pdf)
+    * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
+    * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
+
 ##### Week 5 - 15th February 2017
   * [course](/assets/docs/Comp488-week5.pdf)
   * extras - Pygame

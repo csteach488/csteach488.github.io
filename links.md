@@ -29,16 +29,7 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Designers & Developers
 
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
-
-<!--
-##### Documentation & Guides
-
-  * ...
-
-##### Frameworks & Libraries (a few examples)
-
-  * ...
--->
+  * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
 
 ##### Games - play & stream online
 
@@ -65,15 +56,29 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
-##### Videos - notes &c.
+##### References - Pygame
+
+  * [pygame.event](https://www.pygame.org/docs/ref/event.html)
+  * [pygame.key](https://www.pygame.org/docs/ref/key.html)
+  * [pygame.locals](https://www.pygame.org/docs/ref/locals.html)
+
+##### Videos - games and trailers
 
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
+  * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
+  * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
+  * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
+  * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
+  * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
+  * [The Last Startfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
+
+##### Videos - notes &c.
+
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
     * [detailed concept 1](https://www.youtube.com/watch?list=PL_g8_Y7x37oTYonjybtbxl83KTDpviWBR&v=x48qOA2Z_xQ)
     * [detailed concept 2](https://www.youtube.com/watch?v=64vZ76XM5mQ)
-  * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
   * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
   * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
@@ -112,6 +117,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
   * [Global Game Jam](http://globalgamejam.org/)
+  * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
+  * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
 
 ***
 

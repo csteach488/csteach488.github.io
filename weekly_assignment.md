@@ -18,6 +18,23 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 6 - 22nd February 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [animation - colour scale](/assets/docs/extras/pygame/animation-colour-scale.pdf)
+    * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
+    * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 6](https://github.com/csteach488/source/tree/master/week6)
+* Please start to prepare you DEV week group project and demonstration
+  * further details are available in the [Coursework](/coursework/#assessment2) section of this site
+* Please add updates on your group's project development to the course's Trello group,
+  * [DEV Week Updates](https://trello.com/b/h7MGjZUr/dev-week-updates)
+  * I've added instructions on this board
+
+Enjoy your DEV Week, and Spring Break.
+
 ##### Week 5 - 15th February 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame
