@@ -74,6 +74,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Videos - notes &c.
 
+  * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)

@@ -18,6 +18,11 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 7 - 1st March 2017
+  * extras - design
+    * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
+    * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
+
 ##### Week 6 - 22nd February 2017
   * [course](/assets/docs/Comp488-week6.pdf)
   * extras - Pygame

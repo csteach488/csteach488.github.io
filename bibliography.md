@@ -20,6 +20,11 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 7 - 1st March 2017
+* [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
+* Schell, J. *The Art of Game Design: A Book of Lenses.* 2nd Edition. CRC Press. 2014.
+* Solarski. C. *Drawing Basics and Video Game Art: Classic to Cutting-Edge Art Techniques for Winning Video Game Design.* Watson-Guptill. 2012.
+
 ##### Week 6 - 22nd February 2017
 
 * Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
