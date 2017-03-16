@@ -20,6 +20,14 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 9 - 15th March 2017
+* Pygame
+  * [pygame.key](https://www.pygame.org/docs/ref/key.html)
+  * [pygame.sprite](https://www.pygame.org/docs/ref/sprite.html)
+
+##### Week 8 - 8th March 2017
+* N/A
+
 ##### Week 7 - 1st March 2017
 * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
 * Schell, J. *The Art of Game Design: A Book of Lenses.* 2nd Edition. CRC Press. 2014.

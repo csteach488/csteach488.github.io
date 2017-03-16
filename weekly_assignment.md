@@ -18,6 +18,56 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 9 - 15th March 2017
+* Review this week's [notes and material](/notes), which includes the following extra notes
+  * extras - Pygame and Sprites
+    * [sprites - intro](/assets/docs/extras/pygame/sprites-intro.pdf)
+    * [sprites - set image](/assets/docs/extras/pygame/sprites-set-image.pdf)
+    * [sprites - control](/assets/docs/extras/pygame/sprites-control.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 9](https://github.com/csteach488/source/tree/master/week9)
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Team Snake Drop](https://goo.gl/forms/9I830TmxhQHwcyM92)
+  * [Group 2 - Team Horror](https://goo.gl/forms/MOnsPfqyfc2KN8Co1)
+  * [Group 3 - Team Golfy](https://goo.gl/forms/wZrNCrSJdHNRoLeE3)
+  * [Group 4 - Team Add It Up](https://goo.gl/forms/a0RAtT1myG39mg4K3)
+  * [Group 5 - Team Plastico-Sibaq](https://goo.gl/forms/EhC3x962U0JwHq0j1)
+  * [Group 6 - Team Dog Daze](https://goo.gl/forms/ltQy993gAc7rKifw2)
+  * [Group 7 - Team Adventure - Lord Nefarious](https://goo.gl/forms/AKm6AtINODsP5U3u2)
+  * [Group 8 - Team Don't Blow Up](https://goo.gl/forms/0oktb4Du3pp2jmnC2)
+  * [Group 9 - Team Rock Climb](https://goo.gl/forms/B7O3jxZvlnP0MwYm1)
+  * [Group 10 - Team iOS](https://goo.gl/forms/fCCoM6x3BHSRdQ9L2)
+* Complete these peer review forms by **Wednesday 22nd March 2017** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* Please add your DEV week presentation files, notes, &c. to the following board on Trello,
+  * [Week 9 - DEV Week Presentation Files](https://trello.com/b/VptVjnpO/week-9-dev-week-presentation-files)
+  * Please add these files as soon as possible, and by **Wednesday 22nd March 2017** at the latest
+  * instructions are included as a list on the above board
+* Please share your completed DEV Week code, and any associated files or data, with myself
+  * code etc should be pushed to a repository on GitHub or Bitbucket
+  * please share these files by **Wednesday 22nd March 2017** at the latest
+* Complete the following Trello board,
+  * [Week 9 - DEV Week Contributions](https://trello.com/b/OVlDTk6A/week-9-dev-week-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+  * please complete this requirement by **Wednesday 22nd March 2017** at the latest
+
+Any questions, please let me know.
+
+**n.b.** if you have time this week, try to play a game inspired by this week's presentations.
+
+Enjoy your week.
+
+##### Week 8 - 8th March 2017
+* Please continue to prepare you DEV week group project and demonstration
+  * further details are available in the [Coursework](/coursework/#assessment2) section of this site
+* Please add updates on your group's project development to the course's Trello group,
+  * [DEV Week Updates](https://trello.com/b/h7MGjZUr/dev-week-updates)
+  * I've added instructions on this board
+
+Enjoy your DEV Week, and Spring Break.
+
 ##### Week 7 - 1st March 2017
 * Review this week's [notes and material](/notes), which includes the following extra notes
   * extras - design
@@ -47,7 +97,7 @@ Enjoy your DEV Week, and Spring Break.
   * [DEV Week Updates](https://trello.com/b/h7MGjZUr/dev-week-updates)
   * I've added instructions on this board
 
-Enjoy your DEV Week, and Spring Break.
+Enjoy your week.
 
 ##### Week 5 - 15th February 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

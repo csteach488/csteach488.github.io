@@ -18,6 +18,15 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 9 - 15th March 2017
+  * extras - Pygame and Sprites
+    * [sprites - intro](/assets/docs/extras/pygame/sprites-intro.pdf)
+    * [sprites - set image](/assets/docs/extras/pygame/sprites-set-image.pdf)
+    * [sprites - control](/assets/docs/extras/pygame/sprites-control.pdf)
+
+##### Week 8 - 8th March 2017
+  * N/A
+
 ##### Week 7 - 1st March 2017
   * extras - design
     * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)

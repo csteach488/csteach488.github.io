@@ -61,6 +61,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [pygame.event](https://www.pygame.org/docs/ref/event.html)
   * [pygame.key](https://www.pygame.org/docs/ref/key.html)
   * [pygame.locals](https://www.pygame.org/docs/ref/locals.html)
+  * [pygame.sprite](https://www.pygame.org/docs/ref/sprite.html)
 
 ##### Videos - games and trailers
 
