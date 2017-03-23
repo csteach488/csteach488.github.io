@@ -18,6 +18,42 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 10 - 22nd March 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame and sprites
+    * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
+    * [sprites - set image](/assets/docs/extras/pygame/sprites/sprites-set-image.pdf)
+    * [sprites - control](/assets/docs/extras/pygame/sprites/sprites-control.pdf)
+    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
+    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
+    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
+    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
+    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
+  * extras - Pygame and graphics
+    * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 10](https://github.com/csteach488/source/tree/master/week10)
+    * [game example 1](https://github.com/csteach488/source/tree/master/week10/game-example-1)
+    * [graphics](https://github.com/csteach488/source/tree/master/week10/graphics)
+    * [sprites](https://github.com/csteach488/source/tree/master/week10/sprites)
+* Add the following details to the [Week 10 - Game Dev 1](https://trello.com/b/D87UOKh6/week-10-game-dev-1) board on the course's Trello group
+  * your game's sprite objects and any required images
+    * where are you sourcing these images?
+    * will they be scaled, rendered as is, &c. ?
+    * any transformations applied to these images...
+  * example animations that you're creating for your sprite objects and images
+    * outline default animation state
+    * any modifications to animation, and where these are modified in your game
+  * any required game object *collisions* in your project's game
+  * type of *collision detection* used for these identified *collisions*
+    * include type to be developed
+    * and compare to type of collision detection you'd actually like to use...
+
+Further instructions are available on the [Week 10](https://trello.com/b/D87UOKh6/week-10-game-dev-1) board.
+
+Any questions, please let me know.
+
 ##### Week 9 - 15th March 2017
 * Review this week's [notes and material](/notes), which includes the following extra notes
   * extras - Pygame and Sprites
@@ -108,7 +144,7 @@ Enjoy your week.
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 5](https://github.com/csteach488/source/tree/master/week5)
-* Add the following details to the [Week 5 -  Character Patterns](https://trello.com/b/SrTWTtL1/week-5-character-patterns) board on the course's Trello group
+* Add the following details to the [Week 5 - Character Patterns](https://trello.com/b/SrTWTtL1/week-5-character-patterns) board on the course's Trello group
   * consider your game's characters, and define the following patterns
       * abstract objects and attributes for all of these characters
       * show developer pattern from abstract to specific character

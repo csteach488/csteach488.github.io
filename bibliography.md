@@ -20,6 +20,17 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 10 - 22nd March 2017
+* Pygame
+  * [pygame.draw](https://www.pygame.org/docs/ref/draw.html)
+  * [pygame.image](https://www.pygame.org/docs/ref/image.html)
+  * [pygame.sprite](https://www.pygame.org/docs/ref/sprite.html)
+  * [pygame.time](https://www.pygame.org/docs/ref/time.html)
+  * [pygame.transform](https://www.pygame.org/docs/ref/transform.html)
+* Various
+  * [GameDev.net](https://www.gamedev.net/)
+  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
+
 ##### Week 9 - 15th March 2017
 * Pygame
   * [pygame.key](https://www.pygame.org/docs/ref/key.html)

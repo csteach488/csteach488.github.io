@@ -56,12 +56,24 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
+##### Music and Inspiration
+
+  * Gaming music playlist 1
+    * [Lindsey Stirling - Various Gaming Music Videos](https://youtu.be/AuJnvC8voJY?list=PLETuopLfmKSPUH5qO7YjjEuwWO_T9RKZE)
+  * Gaming music playlist 2
+    * [Taylor Davis - Video Game Covers](https://www.youtube.com/playlist?list=PLABD1A989F27F0162)
+  * Really Slow Motion - [YouTube Channel](https://www.youtube.com/user/reallyslowmotion)
+
 ##### References - Pygame
 
+  * [pygame.draw](https://www.pygame.org/docs/ref/draw.html)
   * [pygame.event](https://www.pygame.org/docs/ref/event.html)
+  * [pygame.image](https://www.pygame.org/docs/ref/image.html)
   * [pygame.key](https://www.pygame.org/docs/ref/key.html)
   * [pygame.locals](https://www.pygame.org/docs/ref/locals.html)
   * [pygame.sprite](https://www.pygame.org/docs/ref/sprite.html)
+  * [pygame.time](https://www.pygame.org/docs/ref/time.html)
+  * [pygame.transform](https://www.pygame.org/docs/ref/transform.html)
 
 ##### Videos - games and trailers
 
@@ -118,9 +130,12 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Websites - various
 
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
+  * [GameDev.net](https://www.gamedev.net/)
   * [Global Game Jam](http://globalgamejam.org/)
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
+  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
+  
 
 ***
 
