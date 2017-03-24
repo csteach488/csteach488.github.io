@@ -20,8 +20,8 @@ summary: weekly assignment for COMP 488
 
 ##### Week 10 - 22nd March 2017
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 11 - Team Addventure](https://goo.gl/forms/Q7idbt07tAPqL5ps2)
-  * [Group 12 - Team Global Citizen](https://goo.gl/forms/S12lOonofhaEbYam2)
+  * [Group 11 - Team Global Citizen](https://goo.gl/forms/Q7idbt07tAPqL5ps2)
+  * [Group 12 - Team Addventure](https://goo.gl/forms/S12lOonofhaEbYam2)
 * Complete these peer review forms by **Wednesday 29th March 2017** at the latest
   * please complete these forms individually, and **NOT** as a project group
 * You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
