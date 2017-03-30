@@ -132,10 +132,12 @@ If you have any suggestions for additions to this section of the site, please fe
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
   * [GameDev.net](https://www.gamedev.net/)
   * [Global Game Jam](http://globalgamejam.org/)
+  * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
+  * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
+    * [Glider](http://conwaylife.com/wiki/Glider)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
-  
 
 ***
 

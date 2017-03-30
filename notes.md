@@ -18,6 +18,15 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 11 - 29th March 2017
+  * [course](/assets/docs/Comp488-week11.pdf)
+  * extras - Pygame
+    * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
+    * [music - intro](/assets/docs/extras/pygame/music/music-intro.pdf)
+    * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
+    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
+
+
 ##### Week 10 - 22nd March 2017
   * [course](/assets/docs/Comp488-week10.pdf)
   * extras - Pygame and sprites

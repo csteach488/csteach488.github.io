@@ -18,6 +18,26 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 11 - 29th March 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
+    * [music - intro](/assets/docs/extras/pygame/music/music-intro.pdf)
+    * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
+    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 11](https://github.com/csteach488/source/tree/master/week11)
+* Add the following details to the [Week 11 - Systems](https://trello.com/b/Ha8Gryrj/week-11-systems) board on the course's Trello group
+  * identify any *emergent systems* you might be able to add to your group's project
+  * for one example system, please identify the underlying simple rules
+  * what is the role of this example system in your game's overall gameplay?
+  * how may this example system modify *player experience goals* for your game?
+
+Further instructions are available on the [Week 11](https://trello.com/b/Ha8Gryrj/week-11-systems) board.
+
+Any questions, please let me know.
+
 ##### Week 10 - 22nd March 2017
 * Complete the following peer review forms individually for the DEV Week projects and presentations
   * [Group 11 - Team Global Citizen](https://goo.gl/forms/Q7idbt07tAPqL5ps2)

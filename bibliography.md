@@ -20,6 +20,14 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 11 - 29th March 2017
+* Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
+* [LifeWiki](http://conwaylife.com/wiki/Main_Page)
+* Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
+* [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
+  * [Glider](http://conwaylife.com/wiki/Glider)
+* Salen, K. & Zimmerman, E. *Rules of Play: Game Design Fundamentals*. MIT Press. 2003.
+
 ##### Week 10 - 22nd March 2017
 * Pygame
   * [pygame.draw](https://www.pygame.org/docs/ref/draw.html)
