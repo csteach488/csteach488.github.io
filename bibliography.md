@@ -20,6 +20,13 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 12 - 5th April 2017
+* Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
+* Bogost, I, *The Rhetoric of Video Games.* in *The Ecology of Games...* Salen, E. MIT Press. Cambridge, MA. 2008.
+* Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
+* Csikszentmihalyi, M. *Flow: The Psychology of Optimal Experience.* Harper & Row. New York. 1990.
+* Murray, J. *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*. Free Press. New York. 1997.
+
 ##### Week 11 - 29th March 2017
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * [LifeWiki](http://conwaylife.com/wiki/Main_Page)

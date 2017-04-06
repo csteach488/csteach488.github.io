@@ -18,6 +18,19 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 12 - 5th April 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
+    * [fun extras - repetitive firing](/assets/docs/extras/pygame/fun-extras/extras-part1-firing.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 12](https://github.com/csteach488/source/tree/master/week12)
+* Please continue design and development of your group's project
+  * this should be research and work in preparation for the Final Demo and Presentation
+
+Any questions, please let me know.
+
 ##### Week 11 - 29th March 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame

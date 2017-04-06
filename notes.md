@@ -18,6 +18,12 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 12 - 5th April 2017
+  * [course](/assets/docs/Comp488-week12.pdf)
+  * extras - Pygame
+    * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
+    * [fun extras - repetitive firing](/assets/docs/extras/pygame/fun-extras/extras-part1-firing.pdf)
+
 ##### Week 11 - 29th March 2017
   * [course](/assets/docs/Comp488-week11.pdf)
   * extras - Pygame

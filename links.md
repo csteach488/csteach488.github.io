@@ -80,6 +80,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
   * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
+  * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
@@ -101,6 +102,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * [Ted - Birth of virtual reality as an art form ](https://www.ted.com/talks/chris_milk_the_birth_of_virtual_reality_as_an_art_form)
     * potential of VR as an art form
+  * [TED 2004 - Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
+    * Mihaly Csikszentmihalyi talks about Flow
   * [Ted - Meet the dazzling flying machines of the future ](https://www.ted.com/talks/raffaello_d_andrea_meet_the_dazzling_flying_machines_of_the_future)
     * Drones, small flying machines...
   * [Valley Uprising](http://www.imdb.com/title/tt3784160/)
@@ -117,6 +120,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Abzu](http://www.505games.com/games/abzu)
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
+  * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
+  * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
+  * [Diablo III - console](https://us.battle.net/d3/en/console/)
   * [Draughts](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
   * [Journey](http://thatgamecompany.com/games/journey/)
@@ -136,6 +142,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
   * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
     * [Glider](http://conwaylife.com/wiki/Glider)
+  * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
