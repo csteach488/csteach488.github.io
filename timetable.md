@@ -30,7 +30,7 @@ This class will meet at the following time and place,
 * Final class: 26th April 2017
   * Final presentation due on Wednesday 26th April 2017 @ 2.45pm
 * Exam week: 1st May to 6th May 2017
-	* Final assessment due on Wednesday 3rd May 2017 @ 2.45pm
+	* Final assessment due on Wednesday 3rd May 2017 @ 5.15pm
 
 #### Coursework Schedule
 
@@ -39,4 +39,4 @@ This class will meet at the following time and place,
 * Wednesday 26th April 2017
   * Demonstration of final assessment @ 2.45pm
 * Wednesday 3rd May 2017
-  * Final assessment report due by 2.45pm
+  * Final assessment report due by 5.15pm
