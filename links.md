@@ -81,10 +81,11 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
   * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
   * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
+  * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
-  * [The Last Startfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
+  * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
 
 ##### Videos - notes &c.
 
@@ -99,7 +100,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 
 ##### Videos - various
-
+  * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
   * [Ted - Birth of virtual reality as an art form ](https://www.ted.com/talks/chris_milk_the_birth_of_virtual_reality_as_an_art_form)
     * potential of VR as an art form
   * [TED 2004 - Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
@@ -126,10 +127,13 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Draughts](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
   * [Journey](http://thatgamecompany.com/games/journey/)
+  * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
+  * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+  * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 

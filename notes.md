@@ -18,6 +18,11 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 13 - 12th April 2017
+  * [course](/assets/docs/Comp488-week13.pdf)
+  * extras - design
+    * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf) 
+
 ##### Week 12 - 5th April 2017
   * [course](/assets/docs/Comp488-week12.pdf)
   * extras - Pygame

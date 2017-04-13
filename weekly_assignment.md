@@ -18,6 +18,24 @@ summary: weekly assignment for COMP 488
 
 ***
 
+##### Week 13 - 12th April 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - design
+    * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 13](https://github.com/csteach488/source/tree/master/week13)
+* Add the following details to the [Week 13 - Final Plan](https://trello.com/b/hCnf4QgK/week-13-final-plan) board on the course's Trello group
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
+
+Any questions, please let me know.
+
+Enjoy your Easter holiday!
+
 ##### Week 12 - 5th April 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame
