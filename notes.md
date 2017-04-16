@@ -24,6 +24,8 @@ This material will be updated on a weekly basis.
     * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf) 
   * extras - final report
     * [final report outline](/assets/docs/extras/final-report-outline.pdf)
+  * extras - game example
+    * [shootemup game](/assets/docs/extras/pygame/game-examples/shooter.pdf)
 
 ##### Week 12 - 5th April 2017
   * [course](/assets/docs/Comp488-week12.pdf)
