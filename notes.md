@@ -18,10 +18,20 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 14 - 19th April 2017
+  * [course](/assets/docs/Comp488-week14.pdf)
+  * extras - final report
+    * [final report outline](/assets/docs/extras/final-report-outline.pdf)
+  * extras - design
+    * [game designers - updated](/assets/docs/extras/game-design-dev/game-designers.pdf)
+  * extras - design and dev
+    * [dramatic elements](/assets/docs/extras/game-design-dev/game-dramatic-elements.pdf)
+    * [formal elements](/assets/docs/extras/game-design-dev/game-formal-elements.pdf)
+
 ##### Week 13 - 12th April 2017
   * [course](/assets/docs/Comp488-week13.pdf)
   * extras - design
-    * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf) 
+    * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
   * extras - final report
     * [final report outline](/assets/docs/extras/final-report-outline.pdf)
   * extras - game example
