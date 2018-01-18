@@ -18,6 +18,7 @@ summary: weekly assignment for COMP 488
 
 ***
 
+<!--
 #### Week 15 - 26th April 2017
 
 * Please complete your group's final project report
@@ -324,11 +325,12 @@ Any questions, please let me know.
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
 
 Enjoy your week.
+-->
 
-##### Week 1 - 18th January 2017
+##### Week 1 - 19th January 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) recommendations
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/QEYVLU7m/week-1-project-details)
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/ExKpnXNF/week-1-project-details)
   * project name & game title
   * team members
   * any ideas you are currently considering for this game
@@ -336,13 +338,27 @@ Enjoy your week.
 
 Please read the instructions available on the board, and then create a new list for your project group.
 
-The course's Trello group is available at the following URL,
+##### Trello group
+I've now created a Trello group for this course, which is available at the following URL,
 
-* [COMP 488 - 2017 @ LUC](https://trello.com/comp4882017luc)
+  * [COMP 488 - Spring 2018 @ LUC](https://trello.com/csteach488)
 
-**NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP488 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
+**n.b.** Please add your Trello username to the following spreadsheet,
+
+  * [COMP 488 - Trello Signup](https://docs.google.com/spreadsheets/d/1QpyzTBY47kMYpUqxpwNXkGMcuJjkpI0Rh3T1PECB5lI/edit?usp=sharing)
+
+If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
+
+##### Slack group
+I've also created a Slack group for this course, which is called **COMP 488 - Spring 2018 @ LUC**.
+
+Invite link for this group is as follows,
+
+  * [COMP 488 - Spring 2018 @ LUC](https://join.slack.com/t/csteach488/shared_invite/enQtMzAxOTIyNjk1MjIyLTg5Y2RhZDVhZDMyNDk1MTYwNWNiYWIzOWVmYzQ0YThmZGIyZmMzMGFiMmZjZmMxYWFhZDk1Y2IyMGQwY2ZiMzY)
+
+Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
 
 ###### Extras
 * Review the following online Git tutorials (if necessary)

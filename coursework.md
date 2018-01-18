@@ -29,11 +29,11 @@ If you have any questions on the following assessments, please [contact](/contac
       * where and why did you update the game?
       * benefits of updates
       * ...
-  * work may be conducted individually or in groups (max. 3 persons per group)
+  * work may be conducted individually or in groups (max. 5 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-**n.b.** please read the [Course Outline](/assets/docs/extras/game-design-dev-spring-2017.pdf) for further details.
+**n.b.** please read the [Course Outline](/assets/docs/extras/game-design-spring-2018.pdf) for further details.
 
 #### Assessed coursework will include the following primary categories:
 
@@ -105,11 +105,11 @@ Please contact me to discuss your chosen programming language for this game's de
 #### Important assessment dates
 
 * DEV Week demo
-  * due Wednesday 15th March 2017 @ 2.45pm
+  * due Friday 16th March 2018 @ 2.45pm
 * final team demo
-  * due Wednesday 26th April 2017 @ 2.45pm
+  * due Friday 27th April 2018 @ 2.45pm
 * final team report
-  * due Wednesday 3rd May 2017 @ 2.45pm
+  * due Friday 4th May 2018 @ 2.45pm
 
 #### Grading
 
@@ -124,5 +124,5 @@ Grades will use the following scale,
   * 70% to 61%  = B
   * 60% to 51%  = B-
   * 50% to 41%  = C
-  * 40% to 31%  = F
-  * 30% to 0%   = ?
+  * 40% to 31%  = C-
+  * 30% to 0%   = F

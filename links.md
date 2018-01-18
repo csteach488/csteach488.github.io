@@ -22,8 +22,10 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Articles & Papers
 
-  * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
   * Mayer, R.E., Mautone, P., and Prothero, W. *Pictorial aids for learning by doing in a multimedia geology simulation game.* Journal of Educational Psychology 94. 2002. PP.171-185.
+
+<!--
+  * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
   * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
 
 ##### Designers & Developers
@@ -31,15 +33,19 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
   * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
 
+-->
+
 ##### Games - play & stream online
 
+  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
+
+<!--
   * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
   * [Microsoft's Space Simulator - 1994](https://archive.org/details/msdos_Microsoft_Space_Simulator_1994)
   * [President Elect - 1988 Editions](https://archive.org/details/msdos_President_Elect_-_1988_Edition_1987)
   * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
   * [Space Invaders - Sega and Taito](https://archive.org/details/Space_Invaders_1985_Sega_Taito)
-  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
   * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
   * [Zork 1 - Apple 2e version](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 
@@ -101,8 +107,13 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
   * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
+-->
 
 ##### Videos - various
+
+  * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
+
+<!--
   * [Ted - Birth of virtual reality as an art form ](https://www.ted.com/talks/chris_milk_the_birth_of_virtual_reality_as_an_art_form)
     * potential of VR as an art form
   * [TED 2004 - Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
@@ -118,8 +129,13 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Pygame](http://www.pygame.org/lofi.html)
   * [Python](https://www.python.org/)
 
+-->
+
 ##### Websites - games
 
+  * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+
+<!--
   * [Abzu](http://www.505games.com/games/abzu)
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
@@ -144,7 +160,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
     * [free download](https://starcraft.com/en-us/articles/20674424)
-  * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
   * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
@@ -161,6 +176,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
+-->
 
 ***
 

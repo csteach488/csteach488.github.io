@@ -9,7 +9,7 @@ categories:
 
 tags: timetable
 published: true
-summary: course timetable for COMP 488, Spring 2017
+summary: course timetable for COMP 488, Spring 2018
 ---
 
 #### Class Schedule
@@ -17,26 +17,26 @@ summary: course timetable for COMP 488, Spring 2017
 This class will meet at the following time and place,
 
 * Time: Wednesday 2.45pm to 5.15pm
-* Place: [Cuneo Hall - Room 002](http://www.luc.edu/media/lucedu/wtc.pdf)
+* Place: [Cuneo Hall - Room 217](http://www.luc.edu/media/lucedu/lsc.pdf)
 
 #### Important Dates
 
-* DEV Week begins: Wednesday 1st March 2017
-  * **n.b.** no formal class: 1st March 2017
-* Spring break: 6th to 11th March 2017
-  * **n.b.** no formal class: 8th March 2017
-* DEV Week: 1st March to 15th March 2017
-  * DEV Week presentation due on Wednesday 15th March 2017 @ 2.45pm
-* Final class: 26th April 2017
-  * Final presentation due on Wednesday 26th April 2017 @ 2.45pm
-* Exam week: 1st May to 6th May 2017
-	* Final assessment due on Wednesday 3rd May 2017 @ 5.15pm
+* DEV week: 5th to 12th March 2018
+  * presentation & demo: 16th March 2018 @ 2.45pm
+* Spring Break: 5th to 9th March 2018
+  * **n.b.** no formal class: 9th March 2018
+* Easter holiday: 29th March to 2nd April 2018
+  * **n.b.** no formal class: 30th March 2018
+* Final class: 27th April 2018
+	* presentation & demo: 27th April 2018 @ 2.45pm
+* Exam week: 30th April to 5th May 2018
+	* Final assessment due on 4th May 2018 by 2.45pm
 
 #### Coursework Schedule
 
-* Wednesday 15th March 2017
-  * Presentation & demo of DEV week assessment @ 2.45pm
-* Wednesday 26th April 2017
-  * Demonstration of final assessment @ 2.45pm
-* Wednesday 3rd May 2017
-  * Final assessment report due by 5.15pm
+* DEV Week demo
+  * due Friday 16th March 2018 @ 2.45pm
+* final team demo
+  * due Friday 27th April 2018 @ 2.45pm
+* final team report
+  * due Friday 4th May 2018 @ 2.45pm
