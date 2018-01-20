@@ -120,6 +120,6 @@ This material will be updated on a weekly basis.
 -->
 
 ##### Week 1 - 19th January 2018
-  * [course](/assets/docs/Comp488-week1.pdf)
+  * [course](/assets/docs/2018/comp488-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)

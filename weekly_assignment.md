@@ -328,7 +328,9 @@ Enjoy your week.
 -->
 
 ##### Week 1 - 19th January 2018
-* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras notes,
+  * extras - Git
+    * [Git basics](/assets/docs/extras/git-basics.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/ExKpnXNF/week-1-project-details)
   * project name & game title
