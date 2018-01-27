@@ -94,10 +94,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 5 - 15th February 2017
   * [course](/assets/docs/Comp488-week5.pdf)
-  * extras - Pygame
-    * [drawing - basic](/assets/docs/extras/pygame/drawing-basic.pdf)
-    * [drawing - moving shapes](/assets/docs/extras/pygame/drawing-moving-shapes.pdf)
-    * [colours](/assets/docs/extras/pygame/pygame-colours.pdf)
 
 ##### Week 4 - 8th February 2017
   * [course](/assets/docs/Comp488-week4.pdf)
@@ -106,18 +102,22 @@ This material will be updated on a weekly basis.
     * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
   * extras - design
     * [Flowcharts](/assets/docs/extras/game-design-dev/game-plan-flowcharts.pdf)
-  * extras - Pygame
-    * [Getting Started](/assets/docs/extras/pygame/getting-started.pdf)
 
 ##### Week 3 - 1st February 2017
   * [course](/assets/docs/Comp488-week3.pdf)
-  * extras
+  * extras - Pygame
+    * [Getting Started](/assets/docs/extras/pygame/getting-started.pdf)
+-->
+
+##### Week 2 - 26th January 2018
+  * [course](/assets/docs/2018/comp488-week2.pdf)
+  * extras - Pygame setup
     * [Python & Pygame setup - OS X](/assets/docs/extras/python-install-setup-osx.pdf)
     * [Python & Pygame setup - Windows 10](/assets/docs/extras/python-install-setup-windows.pdf)
-
-##### Week 2 - 25th January 2017
-  * [course](/assets/docs/Comp488-week2.pdf)
--->
+  * extras - Pygame
+    * [drawing - basic](/assets/docs/extras/pygame/drawing-basic.pdf)
+    * [drawing - moving shapes](/assets/docs/extras/pygame/drawing-moving-shapes.pdf)
+    * [colours](/assets/docs/extras/pygame/pygame-colours.pdf)
 
 ##### Week 1 - 19th January 2018
   * [course](/assets/docs/2018/comp488-week1.pdf)

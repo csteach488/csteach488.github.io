@@ -27,24 +27,23 @@ If you have any suggestions for additions to this section of the site, please fe
 <!--
   * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
   * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
+-->
 
 ##### Designers & Developers
 
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
   * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
 
--->
-
 ##### Games - play & stream online
 
-  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
-
-<!--
-  * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
   * [Microsoft's Space Simulator - 1994](https://archive.org/details/msdos_Microsoft_Space_Simulator_1994)
   * [President Elect - 1988 Editions](https://archive.org/details/msdos_President_Elect_-_1988_Edition_1987)
   * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
+  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
+
+<!--
+  * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
   * [Space Invaders - Sega and Taito](https://archive.org/details/Space_Invaders_1985_Sega_Taito)
   * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
   * [Zork 1 - Apple 2e version](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
@@ -95,18 +94,21 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
   * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
+-->
 
 ##### Videos - notes &c.
 
-  * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
+  * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
+  * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
+  * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
+
+<!--
+  * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
     * [detailed concept 1](https://www.youtube.com/watch?list=PL_g8_Y7x37oTYonjybtbxl83KTDpviWBR&v=x48qOA2Z_xQ)
     * [detailed concept 2](https://www.youtube.com/watch?v=64vZ76XM5mQ)
-  * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
-  * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
-  * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 -->
 
 ##### Videos - various
@@ -128,19 +130,18 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * [Pygame](http://www.pygame.org/lofi.html)
   * [Python](https://www.python.org/)
-
 -->
 
 ##### Websites - games
 
+  * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
+  * [BioLogica - Legacy](http://biologica.concord.org/)
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
 
 <!--
   * [Abzu](http://www.505games.com/games/abzu)
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
-  * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
-  * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Call of Duty](https://www.callofduty.com/)
   * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
   * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
