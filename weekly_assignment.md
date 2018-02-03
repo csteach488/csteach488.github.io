@@ -286,7 +286,7 @@ Enjoy your week.
 
 -->
 
-##### Week 3 - 1st February 2017
+##### Week 3 - 2nd February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame
     * [getting started](/assets/docs/extras/pygame/getting-started.pdf)
