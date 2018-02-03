@@ -99,13 +99,13 @@ There is no specific textbook for this course.
   * [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Zork](https://en.wikipedia.org/wiki/Zork)
 
-##### Week 3 - 1st February 2017
+-->
+
+##### Week 3 - 2nd February 2018
 
 * develop. *EA at Grand Rapids*. http://www.develop-online.net/tools-and-tech/grand-rapids/0116020. 2007.
 * David, S. *Game Over: How Nintendo Conquered the World.* Vintage Books. New York. 1994. P.51.
 * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
-
--->
 
 ##### Week 2 - 26th January 2018
 

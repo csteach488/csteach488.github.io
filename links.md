@@ -68,6 +68,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * Gaming music playlist 2
     * [Taylor Davis - Video Game Covers](https://www.youtube.com/playlist?list=PLABD1A989F27F0162)
   * Really Slow Motion - [YouTube Channel](https://www.youtube.com/user/reallyslowmotion)
+-->
 
 ##### References - Pygame
 
@@ -82,6 +83,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Videos - games and trailers
 
+  * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
+
+<!--
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
   * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
@@ -92,23 +96,22 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
-  * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
   * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
 -->
 
 ##### Videos - notes &c.
 
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
+  * Paper Prototyping
+    * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
+    * [detailed concept 1](https://www.youtube.com/watch?list=PL_g8_Y7x37oTYonjybtbxl83KTDpviWBR&v=x48qOA2Z_xQ)
+    * [detailed concept 2](https://www.youtube.com/watch?v=64vZ76XM5mQ)
   * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
   * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 
 <!--
   * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
-  * Paper Prototyping
-    * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
-    * [detailed concept 1](https://www.youtube.com/watch?list=PL_g8_Y7x37oTYonjybtbxl83KTDpviWBR&v=x48qOA2Z_xQ)
-    * [detailed concept 2](https://www.youtube.com/watch?v=64vZ76XM5mQ)
 -->
 
 ##### Videos - various
@@ -125,17 +128,21 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Valley Uprising](http://www.imdb.com/title/tt3784160/)
     * Climbing in Yosemite valley...
   * [Video Games: The Movie](http://videogamesthemovie.com/)
+-->
 
 ##### Websites - development
 
   * [Pygame](http://www.pygame.org/lofi.html)
   * [Python](https://www.python.org/)
--->
 
 ##### Websites - games
 
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
+  * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
+  * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+  * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
+  * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
 
 <!--
@@ -148,28 +155,27 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
   * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
   * [Diablo III - console](https://us.battle.net/d3/en/console/)
-  * [Draughts](https://en.wikipedia.org/wiki/Draughts)
-  * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
   * [Journey](http://thatgamecompany.com/games/journey/)
   * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
   * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [King's Quest](http://www.sierra.com/kingsquest)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
-  * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
-  * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
     * [free download](https://starcraft.com/en-us/articles/20674424)
   * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
+-->
 
 ##### Websites - various
 
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
-  * [GameDev.net](https://www.gamedev.net/)
   * [Global Game Jam](http://globalgamejam.org/)
+
+<!--
+  * [GameDev.net](https://www.gamedev.net/)
   * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
   * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)

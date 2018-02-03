@@ -87,10 +87,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 6 - 22nd February 2017
   * [course](/assets/docs/Comp488-week6.pdf)
-  * extras - Pygame
-    * [animation - colour scale](/assets/docs/extras/pygame/animation-colour-scale.pdf)
-    * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
-    * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
 
 ##### Week 5 - 15th February 2017
   * [course](/assets/docs/Comp488-week5.pdf)
@@ -103,11 +99,15 @@ This material will be updated on a weekly basis.
   * extras - design
     * [Flowcharts](/assets/docs/extras/game-design-dev/game-plan-flowcharts.pdf)
 
-##### Week 3 - 1st February 2017
-  * [course](/assets/docs/Comp488-week3.pdf)
-  * extras - Pygame
-    * [Getting Started](/assets/docs/extras/pygame/getting-started.pdf)
 -->
+
+##### Week 3 - 2nd February 2018
+  * [course](/assets/docs/2018/comp488-week3.pdf)
+  * extras - Pygame
+    * [getting started](/assets/docs/extras/pygame/getting-started.pdf)
+    * [animation - colour scale](/assets/docs/extras/pygame/animation-colour-scale.pdf)
+    * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
+    * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
 
 ##### Week 2 - 26th January 2018
   * [course](/assets/docs/2018/comp488-week2.pdf)
