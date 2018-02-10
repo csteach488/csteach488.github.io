@@ -265,6 +265,8 @@ Any questions, please let me know.
 
 Enjoy your week.
 
+-->
+
 ##### Week 4 - 8th February 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - game walkthroughs
@@ -272,8 +274,13 @@ Enjoy your week.
     * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
   * extras - design
     * [Flowcharts](/assets/docs/extras/game-design-dev/game-plan-flowcharts.pdf)
-  * extras - Pygame
-    * [Getting Started](/assets/docs/extras/pygame/getting-started.pdf)
+  * extras - Pygame and sprites
+    * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
+    * [sprites - set image](/assets/docs/extras/pygame/sprites/sprites-set-image.pdf)
+    * [sprites - control](/assets/docs/extras/pygame/sprites/sprites-control.pdf)
+    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
+    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
+    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach488/source/tree/master/week4)
@@ -283,8 +290,6 @@ Any questions, please let me know.
 **n.b.** if you have time this week, try to play an example of **Zork**. Playable examples are listed in the [links](/links) section.
 
 Enjoy your week.
-
--->
 
 ##### Week 3 - 2nd February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

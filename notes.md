@@ -60,22 +60,12 @@ This material will be updated on a weekly basis.
 ##### Week 10 - 22nd March 2017
   * [course](/assets/docs/Comp488-week10.pdf)
   * extras - Pygame and sprites
-    * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
-    * [sprites - set image](/assets/docs/extras/pygame/sprites/sprites-set-image.pdf)
-    * [sprites - control](/assets/docs/extras/pygame/sprites/sprites-control.pdf)
-    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
-    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
-    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
     * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
     * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
   * extras - Pygame and graphics
     * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
 
 ##### Week 9 - 15th March 2017
-  * extras - Pygame and sprites
-    * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
-    * [sprites - set image](/assets/docs/extras/pygame/sprites/sprites-set-image.pdf)
-    * [sprites - control](/assets/docs/extras/pygame/sprites/sprites-control.pdf)
 
 ##### Week 8 - 8th March 2017
   * N/A
@@ -91,6 +81,8 @@ This material will be updated on a weekly basis.
 ##### Week 5 - 15th February 2017
   * [course](/assets/docs/Comp488-week5.pdf)
 
+-->
+
 ##### Week 4 - 8th February 2017
   * [course](/assets/docs/Comp488-week4.pdf)
   * extras - game walkthroughs
@@ -98,8 +90,13 @@ This material will be updated on a weekly basis.
     * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
   * extras - design
     * [Flowcharts](/assets/docs/extras/game-design-dev/game-plan-flowcharts.pdf)
-
--->
+  * extras - Pygame and sprites
+    * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
+    * [sprites - set image](/assets/docs/extras/pygame/sprites/sprites-set-image.pdf)
+    * [sprites - control](/assets/docs/extras/pygame/sprites/sprites-control.pdf)
+    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
+    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
+    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
 
 ##### Week 3 - 2nd February 2018
   * [course](/assets/docs/2018/comp488-week3.pdf)

@@ -80,26 +80,25 @@ There is no specific textbook for this course.
 * Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
 * Bogost, I, *The Rhetoric of Video Games.* in *The Ecology of Games...* Salen, E. MIT Press. Cambridge, MA. 2008.
 * Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
-* Pygame
-  * [pygame.key](https://www.pygame.org/docs/ref/key.html)
 
 ##### Week 5 - 15th February 2017
 
 * [Abzu](http://www.505games.com/games/abzu)
 * [Journey](http://thatgamecompany.com/games/journey/)
-* Pygame
-  * [pygame.event](https://www.pygame.org/docs/ref/event.html)
-  * [pygame.locals](https://www.pygame.org/docs/ref/locals.html)
+
+-->
 
 ##### Week 4 - 8th February 2017
 
+* Pygame
+  * [pygame.event](https://www.pygame.org/docs/ref/event.html)
+  * [pygame.key](https://www.pygame.org/docs/ref/key.html)
+  * [pygame.locals](https://www.pygame.org/docs/ref/locals.html)
 * Suits, B. *The Grasshopper: Games, Life and Utopia*. Broadview Press. 3rd Edition. 2014.
 * Wikipedia
   * [Draughts](https://en.wikipedia.org/wiki/Draughts)
   * [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Zork](https://en.wikipedia.org/wiki/Zork)
-
--->
 
 ##### Week 3 - 2nd February 2018
 

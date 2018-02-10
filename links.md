@@ -22,12 +22,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Articles & Papers
 
-  * Mayer, R.E., Mautone, P., and Prothero, W. *Pictorial aids for learning by doing in a multimedia geology simulation game.* Journal of Educational Psychology 94. 2002. PP.171-185.
-
-<!--
   * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
+  * Mayer, R.E., Mautone, P., and Prothero, W. *Pictorial aids for learning by doing in a multimedia geology simulation game.* Journal of Educational Psychology 94. 2002. PP.171-185.
   * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
--->
 
 ##### Designers & Developers
 
@@ -41,13 +38,12 @@ If you have any suggestions for additions to this section of the site, please fe
   * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
   * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
-
-<!--
   * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
   * [Space Invaders - Sega and Taito](https://archive.org/details/Space_Invaders_1985_Sega_Taito)
   * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
   * [Zork 1 - Apple 2e version](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 
+<!--
 ##### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -101,6 +97,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Videos - notes &c.
 
+  * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
@@ -109,10 +106,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
   * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-
-<!--
-  * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
--->
 
 ##### Videos - various
 
@@ -144,6 +137,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+  * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
+    * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 
 <!--
   * [Abzu](http://www.505games.com/games/abzu)
@@ -165,8 +160,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
     * [free download](https://starcraft.com/en-us/articles/20674424)
   * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
-  * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
-    * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 -->
 
 ##### Websites - various
