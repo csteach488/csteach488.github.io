@@ -267,7 +267,7 @@ Enjoy your week.
 
 -->
 
-##### Week 4 - 8th February 2017
+##### Week 4 - 9th February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - game walkthroughs
     * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)

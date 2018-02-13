@@ -83,8 +83,8 @@ This material will be updated on a weekly basis.
 
 -->
 
-##### Week 4 - 8th February 2017
-  * [course](/assets/docs/Comp488-week4.pdf)
+##### Week 4 - 9th February 2018
+  * [course](/assets/docs/2018/comp488-week4.pdf)
   * extras - game walkthroughs
     * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
     * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)

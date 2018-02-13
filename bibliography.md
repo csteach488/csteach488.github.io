@@ -88,7 +88,7 @@ There is no specific textbook for this course.
 
 -->
 
-##### Week 4 - 8th February 2017
+##### Week 4 - 9th February 2018
 
 * Pygame
   * [pygame.event](https://www.pygame.org/docs/ref/event.html)
