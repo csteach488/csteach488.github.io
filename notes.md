@@ -59,11 +59,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 10 - 22nd March 2017
   * [course](/assets/docs/Comp488-week10.pdf)
-  * extras - Pygame and sprites
-    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
-    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
-  * extras - Pygame and graphics
-    * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
 
 ##### Week 9 - 15th March 2017
 
@@ -77,11 +72,16 @@ This material will be updated on a weekly basis.
 
 ##### Week 6 - 22nd February 2017
   * [course](/assets/docs/Comp488-week6.pdf)
-
-##### Week 5 - 15th February 2017
-  * [course](/assets/docs/Comp488-week5.pdf)
+    * extras - Pygame and sprites
+      * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
+      * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
 
 -->
+
+##### Week 5 - 16th February 2018
+  * [course](/assets/docs/2018/comp488-week5.pdf)
+  * extras - Pygame and graphics
+    * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
 
 ##### Week 4 - 9th February 2018
   * [course](/assets/docs/2018/comp488-week4.pdf)

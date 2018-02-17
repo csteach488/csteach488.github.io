@@ -79,18 +79,18 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Videos - games and trailers
 
+  * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
+  * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
+  * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
+  * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
 
 <!--
-  * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
-  * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
   * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
-  * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
   * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
   * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
   * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
-  * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
 -->
@@ -130,10 +130,12 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ##### Websites - games
 
+  * [Abzu](http://www.505games.com/games/abzu)
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+  * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
@@ -141,7 +143,6 @@ If you have any suggestions for additions to this section of the site, please fe
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 
 <!--
-  * [Abzu](http://www.505games.com/games/abzu)
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
   * [Call of Duty](https://www.callofduty.com/)
@@ -154,7 +155,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
   * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [King's Quest](http://www.sierra.com/kingsquest)
-  * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
   * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
   * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
@@ -166,15 +166,15 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
   * [Global Game Jam](http://globalgamejam.org/)
+  * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
+  * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
 
 <!--
   * [GameDev.net](https://www.gamedev.net/)
   * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
-  * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
   * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
     * [Glider](http://conwaylife.com/wiki/Glider)
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
-  * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 -->
 

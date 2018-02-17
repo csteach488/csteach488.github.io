@@ -81,12 +81,15 @@ There is no specific textbook for this course.
 * Bogost, I, *The Rhetoric of Video Games.* in *The Ecology of Games...* Salen, E. MIT Press. Cambridge, MA. 2008.
 * Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
 
-##### Week 5 - 15th February 2017
+-->
 
+##### Week 5 - 16th February 2018
+
+* Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
+* Bogost, I, *The Rhetoric of Video Games.* in *The Ecology of Games...* Salen, E. MIT Press. Cambridge, MA. 2008.
+* Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
 * [Abzu](http://www.505games.com/games/abzu)
 * [Journey](http://thatgamecompany.com/games/journey/)
-
--->
 
 ##### Week 4 - 9th February 2018
 
