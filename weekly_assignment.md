@@ -124,42 +124,6 @@ Enjoy your week.
 * Complete these peer review forms by **Wednesday 29th March 2017** at the latest
   * please complete these forms individually, and **NOT** as a project group
 * You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
-* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
-  * extras - Pygame and sprites
-    * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
-    * [sprites - set image](/assets/docs/extras/pygame/sprites/sprites-set-image.pdf)
-    * [sprites - control](/assets/docs/extras/pygame/sprites/sprites-control.pdf)
-    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
-    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
-    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
-    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
-    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
-  * extras - Pygame and graphics
-    * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
-* Review this week's [bibliography](/bibliography) recommendations
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 10](https://github.com/csteach488/source/tree/master/week10)
-    * [game example 1](https://github.com/csteach488/source/tree/master/week10/game-example-1)
-    * [graphics](https://github.com/csteach488/source/tree/master/week10/graphics)
-    * [sprites](https://github.com/csteach488/source/tree/master/week10/sprites)
-* Add the following details to the [Week 10 - Game Dev 1](https://trello.com/b/D87UOKh6/week-10-game-dev-1) board on the course's Trello group
-  * your game's sprite objects and any required images
-    * where are you sourcing these images?
-    * will they be scaled, rendered as is, &c. ?
-    * any transformations applied to these images...
-  * example animations that you're creating for your sprite objects and images
-    * outline default animation state
-    * any modifications to animation, and where these are modified in your game
-  * any required game object *collisions* in your project's game
-  * type of *collision detection* used for these identified *collisions*
-    * include type to be developed
-    * and compare to type of collision detection you'd actually like to use...
-
-Further instructions are available on the [Week 10](https://trello.com/b/D87UOKh6/week-10-game-dev-1) board.
-
-Any questions, please let me know.
-
-Enjoy your week.
 
 ##### Week 9 - 15th March 2017
 * Review this week's [notes and material](/notes), which includes the following extra notes
@@ -225,24 +189,48 @@ Enjoy your DEV Week, and Spring Break.
 
 Enjoy your DEV Week, and Spring Break.
 
-##### Week 6 - 22nd February 2017
+##### Week 8 - 23rd February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame
-    * [animation - colour scale](/assets/docs/extras/pygame/animation-colour-scale.pdf)
-    * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
-    * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
+    *
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 6](https://github.com/csteach488/source/tree/master/week6)
+  * [Source - Week 6]()
 * Please start to prepare you DEV week group project and demonstration
   * further details are available in the [Coursework](/coursework/#assessment2) section of this site
 * Please add updates on your group's project development to the course's Trello group,
-  * [DEV Week Updates](https://trello.com/b/h7MGjZUr/dev-week-updates)
+  * [DEV Week Updates]()
   * I've added instructions on this board
 
 Enjoy your week.
 
 -->
+
+##### Week 6 - 23rd February 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame and sprites
+    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
+    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
+    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 6](https://github.com/csteach488/source/tree/master/week6)
+* Add the following details to the [Week 6 - Game Dev](https://trello.com/b/oq7S9FME/week-6-game-dev) board on the course's Trello group
+  * your game's sprite objects and any required images
+    * where are you sourcing these images?
+    * will they be scaled, rendered as is, &c. ?
+    * any transformations applied to these images...
+  * example animations that you're creating for your sprite objects and images
+    * outline default animation state
+    * any modifications to animation, and where these are modified in your game
+  * any required game object *collisions* in your project's game
+  * type of *collision detection* used for these identified *collisions*
+    * include type to be developed
+    * and compare to type of collision detection you'd actually like to use...
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 5 - 16th February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

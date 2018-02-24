@@ -57,6 +57,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
+-->
+
 ##### Music and Inspiration
 
   * Gaming music playlist 1
@@ -64,7 +66,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * Gaming music playlist 2
     * [Taylor Davis - Video Game Covers](https://www.youtube.com/playlist?list=PLABD1A989F27F0162)
   * Really Slow Motion - [YouTube Channel](https://www.youtube.com/user/reallyslowmotion)
--->
 
 ##### References - Pygame
 
@@ -83,7 +84,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
   * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
+  * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
+  * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
 
 <!--
   * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
@@ -91,8 +94,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
   * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
   * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
-  * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
-  * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
 -->
 
 ##### Videos - notes &c.
@@ -131,10 +132,13 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Websites - games
 
   * [Abzu](http://www.505games.com/games/abzu)
+  * [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game))
+  * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+  * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
@@ -165,17 +169,17 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Websites - various
 
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
+  * [GameDev.net](https://www.gamedev.net/)
   * [Global Game Jam](http://globalgamejam.org/)
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
+  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
 <!--
-  * [GameDev.net](https://www.gamedev.net/)
   * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
   * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
     * [Glider](http://conwaylife.com/wiki/Glider)
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
-  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 -->
 
 ***

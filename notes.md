@@ -54,8 +54,6 @@ This material will be updated on a weekly basis.
     * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
     * [music - intro](/assets/docs/extras/pygame/music/music-intro.pdf)
     * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
-    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
-
 
 ##### Week 10 - 22nd March 2017
   * [course](/assets/docs/Comp488-week10.pdf)
@@ -70,13 +68,14 @@ This material will be updated on a weekly basis.
     * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
     * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
 
-##### Week 6 - 22nd February 2017
-  * [course](/assets/docs/Comp488-week6.pdf)
-    * extras - Pygame and sprites
-      * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
-      * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
-
 -->
+
+##### Week 6 - 23rd February 2018
+  * [course](/assets/docs/2018/comp488-week6.pdf)
+  * extras - Pygame and sprites
+    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
+    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
+    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
 
 ##### Week 5 - 16th February 2018
   * [course](/assets/docs/2018/comp488-week5.pdf)
