@@ -175,36 +175,27 @@ Enjoy your week.
 
 Enjoy your DEV Week, and Spring Break.
 
-##### Week 7 - 1st March 2017
-* Review this week's [notes and material](/notes), which includes the following extra notes
+-->
+
+##### Week 7 - 2nd March 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
   * extras - design
     * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
     * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
-* Please continue to prepare you DEV week group project and demonstration
-  * further details are available in the [Coursework](/coursework/#assessment2) section of this site
-* Please add updates on your group's project development to the course's Trello group,
-  * [DEV Week Updates](https://trello.com/b/h7MGjZUr/dev-week-updates)
-  * I've added instructions on this board
-
-Enjoy your DEV Week, and Spring Break.
-
-##### Week 8 - 23rd February 2018
-* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
-  * extras - Pygame
-    *
-* Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 6]()
+  * [Source - Week 7](https://github.com/csteach488/source/tree/master/week7)
 * Please start to prepare you DEV week group project and demonstration
   * further details are available in the [Coursework](/coursework/#assessment2) section of this site
 * Please add updates on your group's project development to the course's Trello group,
-  * [DEV Week Updates]()
+  * [Week 7 - DEV Week Updates](https://trello.com/b/Qz1aKEay/week-7-dev-week-updates)
   * I've added instructions on this board
 
-Enjoy your week.
+Any questions, please let me know.
 
--->
+Enjoy your week, and Spring Break.
 
 ##### Week 6 - 23rd February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

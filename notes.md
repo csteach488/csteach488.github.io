@@ -63,12 +63,15 @@ This material will be updated on a weekly basis.
 ##### Week 8 - 8th March 2017
   * N/A
 
-##### Week 7 - 1st March 2017
+-->
+
+##### Week 7 - 2nd March 2018
+  * [course](/assets/docs/2018/comp488-week7.pdf)
+  * extras - Pygame
+    * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
   * extras - design
     * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
     * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
-
--->
 
 ##### Week 6 - 23rd February 2018
   * [course](/assets/docs/2018/comp488-week6.pdf)

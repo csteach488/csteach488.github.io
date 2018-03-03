@@ -43,14 +43,14 @@ There is no specific textbook for this course.
 * Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
 * Csikszentmihalyi, M. *Flow: The Psychology of Optimal Experience.* Harper & Row. New York. 1990.
 
-##### Week 11 - 29th March 2017
+-->
+
+##### Week 7 - 2nd March 2018
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
 * Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
 * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
   * [Glider](http://conwaylife.com/wiki/Glider)
-
--->
 
 ##### Week 6 - 23rd February 2018
 

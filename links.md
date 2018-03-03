@@ -30,6 +30,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
   * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
+  * [Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer))
 
 ##### Games - play & stream online
 
@@ -43,7 +44,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
   * [Zork 1 - Apple 2e version](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 
-<!--
 ##### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -56,8 +56,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
-
--->
 
 ##### Music and Inspiration
 
@@ -99,7 +97,10 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Videos - notes &c.
 
   * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
+  * [BBC - Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk&index=2&list=PLEYdfD3Pd0Xovamy5A5OR3y8uZqtehkH3)
+  * [BBC - The Code, YouTube](https://www.youtube.com/watch?v=GKvT1lRWhE0&list=PL8CB2A036D0EAED2A&index=10)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
+  * [GDC - Emergent Behaviour in AI - YouTube](https://www.youtube.com/watch?v=WEeKXx5Byxc)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
     * [detailed concept 1](https://www.youtube.com/watch?list=PL_g8_Y7x37oTYonjybtbxl83KTDpviWBR&v=x48qOA2Z_xQ)
@@ -140,6 +141,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
   * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
+  * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
@@ -172,13 +174,15 @@ If you have any suggestions for additions to this section of the site, please fe
   * [GameDev.net](https://www.gamedev.net/)
   * [Global Game Jam](http://globalgamejam.org/)
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
+  * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
+  * [Maxis](https://en.wikipedia.org/wiki/Maxis)
+  * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
+    * [Glider](http://conwaylife.com/wiki/Glider)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
+
 <!--
-  * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
-  * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
-    * [Glider](http://conwaylife.com/wiki/Glider)
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
 -->
 
