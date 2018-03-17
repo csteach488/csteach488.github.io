@@ -58,12 +58,13 @@ This material will be updated on a weekly basis.
 ##### Week 10 - 22nd March 2017
   * [course](/assets/docs/Comp488-week10.pdf)
 
-##### Week 9 - 15th March 2017
-
-##### Week 8 - 8th March 2017
-  * N/A
-
 -->
+
+##### Week 9 - 16th March 2018
+* N/A - DEV Week
+
+##### Week 8 - 9th March 2018
+  * N/A - Spring Break
 
 ##### Week 7 - 2nd March 2018
   * [course](/assets/docs/2018/comp488-week7.pdf)

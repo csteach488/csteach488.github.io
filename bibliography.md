@@ -45,6 +45,12 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 9 - 16th March 2018
+* N/A - DEV Week
+
+##### Week 8 - 9th March 2018
+* N/A - Spring Break
+
 ##### Week 7 - 2nd March 2018
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
