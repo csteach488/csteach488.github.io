@@ -117,24 +117,32 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 10 - 22nd March 2017
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 11 - Team Global Citizen](https://goo.gl/forms/Q7idbt07tAPqL5ps2)
-  * [Group 12 - Team Addventure](https://goo.gl/forms/S12lOonofhaEbYam2)
-* Complete these peer review forms by **Wednesday 29th March 2017** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+-->
 
 ##### Week 10 - 23rd March 2018
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group G - Team ](https://goo.gl/forms/E7EzHB212HskgiDR2)
-  * [Group I - Team ](https://goo.gl/forms/91jYvbYhyKZliZ8r1)
-  * [Group J - Team ](https://goo.gl/forms/KkaJjusvY7L2Mvbf2)
-* Complete these peer review forms by **Friday 23rd March 2018** at the latest
+  * [Group I - Team Swordfish](https://goo.gl/forms/91jYvbYhyKZliZ8r1)
+  * [Group J - Team Tristram](https://goo.gl/forms/KkaJjusvY7L2Mvbf2)
+  * [Group K - Team Haunted House](https://goo.gl/forms/p4YbjnY0f47GE1PP2)
+* Complete these peer review forms by **Friday 30th March 2018** at the latest
   * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* You may use the **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [music - intro](/assets/docs/extras/pygame/music/music-intro.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 10](https://github.com/csteach488/source/tree/master/week10)
+* Add the following details to the [Week 10 - Systems](https://trello.com/b/2KCNJlbF/week-10-systems) board on the course's Trello group
+  * identify any *emergent systems* you might be able to add to your group's project
+  * for one example system, please identify the underlying simple rules
+  * what is the role of this example system in your game's overall gameplay?
 
--->
+Any questions, please let me know.
+
+**n.b.** if you have time this week, try to play a game inspired by this week's presentations.
+
+Enjoy your week.
 
 ##### Week 9 - 16th March 2018
 * Complete the following peer review forms individually for the DEV Week projects and presentations
