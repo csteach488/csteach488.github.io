@@ -46,14 +46,14 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp488-week12.pdf)
   * extras - Pygame
     * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
-    * [fun extras - repetitive firing](/assets/docs/extras/pygame/fun-extras/extras-part1-firing.pdf)
-
-##### Week 11 - 29th March 2017
-  * [course](/assets/docs/Comp488-week11.pdf)
-  * extras - Pygame
-    * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
 
 -->
+
+##### Week 12 - 6th April 2018
+  * [course](/assets/docs/2018/comp488-week12.pdf)
+  * extras - Pygame
+    * [fun extras - repetitive firing](/assets/docs/extras/pygame/fun-extras/extras-part1-firing.pdf)
+    * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
 
 ##### Week 10 - 23rd March 2018
   * [course](/assets/docs/2018/comp488-week10.pdf)

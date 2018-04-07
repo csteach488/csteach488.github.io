@@ -80,6 +80,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
+  * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
   * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
   * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
@@ -88,7 +89,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
 
 <!--
-  * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
   * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
   * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
   * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
@@ -114,6 +114,7 @@ If you have any suggestions for additions to this section of the site, please fe
 ##### Videos - various
 
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
+  * [Video Games: The Movie](http://videogamesthemovie.com/)
 
 <!--
   * [Ted - Birth of virtual reality as an art form ](https://www.ted.com/talks/chris_milk_the_birth_of_virtual_reality_as_an_art_form)
@@ -122,7 +123,6 @@ If you have any suggestions for additions to this section of the site, please fe
     * Drones, small flying machines...
   * [Valley Uprising](http://www.imdb.com/title/tt3784160/)
     * Climbing in Yosemite valley...
-  * [Video Games: The Movie](http://videogamesthemovie.com/)
 -->
 
 ##### Websites - development
@@ -138,14 +138,23 @@ If you have any suggestions for additions to this section of the site, please fe
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
+  * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
+  * [Diablo III - console](https://us.battle.net/d3/en/console/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+  * [Journey](http://thatgamecompany.com/games/journey/)
+  * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
+  * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
+  * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
+  * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
+    * [free download](https://starcraft.com/en-us/articles/20674424)
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+  * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 
@@ -155,17 +164,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Call of Duty](https://www.callofduty.com/)
   * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
   * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
-  * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
-  * [Diablo III - console](https://us.battle.net/d3/en/console/)
-  * [Journey](http://thatgamecompany.com/games/journey/)
-  * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
-  * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [King's Quest](http://www.sierra.com/kingsquest)
   * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
-  * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
-  * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
-    * [free download](https://starcraft.com/en-us/articles/20674424)
-  * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
 -->
 
 ##### Websites - various
@@ -179,12 +179,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
     * [Glider](http://conwaylife.com/wiki/Glider)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
-  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
-
-
-<!--
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
--->
+  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
 ***
 

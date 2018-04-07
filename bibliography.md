@@ -36,13 +36,12 @@ There is no specific textbook for this course.
 * Murray, J. *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*. Free Press. New York. 1997.
 * Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
 * Salen, K. & Zimmerman, E. *Rules of Play: Game Design Fundamentals*. MIT Press. 2003.
+-->
 
 ##### Week 12 - 6th April 2018
 * Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
 * Bogost, I, *The Rhetoric of Video Games.* in *The Ecology of Games...* Salen, E. MIT Press. Cambridge, MA. 2008.
 * Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
-
--->
 
 ##### Week 10 - 23rd March 2018
 * Csikszentmihalyi, M. *Flow: The Psychology of Optimal Experience.* Harper & Row. New York. 1990.
