@@ -66,29 +66,21 @@ Enjoy your week.
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - design
     * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
+  * extras - final report
+    * [final report outline](/assets/docs/extras/final-report-outline.pdf)
+  * extras - game example
+    * [shootemup game](/assets/docs/extras/pygame/game-examples/shooter.pdf)
+  * extras - Pygame
+    * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 13](https://github.com/csteach488/source/tree/master/week13)
-* Add the following details to the [Week 13 - Final Plan](https://trello.com/b/hCnf4QgK/week-13-final-plan) board on the course's Trello group
+  * [Source - Week 13]()
+* Add the following details to the [Week 13 - Final Plan]() board on the course's Trello group
   * please add a brief plan and outline for your group's remaining work
   * this should include any work that is planned towards your group's final project presentation
     * this may include development, research, design, testing, and so on
   * please also include an outline of planned contribution from each group member
 * Please continue project design and development for the end of semester final presentation and report
-
-Any questions, please let me know.
-
-Enjoy your Easter holiday!
-
-##### Week 12 - 5th April 2017
-* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
-  * extras - Pygame
-    * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
-* Review this week's [bibliography](/bibliography) recommendations
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 12](https://github.com/csteach488/source/tree/master/week12)
-* Please continue design and development of your group's project
-  * this should be research and work in preparation for the Final Demo and Presentation
 
 Any questions, please let me know.
 

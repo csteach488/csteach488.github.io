@@ -44,6 +44,16 @@ This material will be updated on a weekly basis.
 
 ##### Week 12 - 5th April 2017
   * [course](/assets/docs/Comp488-week12.pdf)
+
+
+##### Week 13 - 13th April 2017
+  * [course](/assets/docs/2018/comp488-week13.pdf)
+  * extras - design
+    * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
+  * extras - final report
+    * [final report outline](/assets/docs/extras/final-report-outline.pdf)
+  * extras - game example
+    * [shootemup game](/assets/docs/extras/pygame/game-examples/shooter.pdf)
   * extras - Pygame
     * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
 

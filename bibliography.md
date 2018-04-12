@@ -30,8 +30,8 @@ There is no specific textbook for this course.
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
 
-##### Week 13 - 12th April 2017
 
+##### Week 13 - 13th April 2018
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * Murray, J. *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*. Free Press. New York. 1997.
 * Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
