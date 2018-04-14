@@ -137,7 +137,10 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
+  * [Call of Duty](https://www.callofduty.com/)
   * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
+  * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
+  * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
   * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
   * [Diablo III - console](https://us.battle.net/d3/en/console/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
@@ -147,6 +150,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
+  * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
   * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
@@ -161,11 +165,7 @@ If you have any suggestions for additions to this section of the site, please fe
 <!--
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
-  * [Call of Duty](https://www.callofduty.com/)
-  * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
-  * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
   * [King's Quest](http://www.sierra.com/kingsquest)
-  * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
 -->
 
 ##### Websites - various

@@ -62,20 +62,22 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 13 - 12th April 2017
+-->
+
+##### Week 13 - 13th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - design
     * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
   * extras - final report
-    * [final report outline](/assets/docs/extras/final-report-outline.pdf)
+    * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
   * extras - game example
     * [shootemup game](/assets/docs/extras/pygame/game-examples/shooter.pdf)
   * extras - Pygame
     * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 13]()
-* Add the following details to the [Week 13 - Final Plan]() board on the course's Trello group
+  * [Source - Week 13](https://github.com/csteach488/source/tree/master/week13)
+* Add the following details to the [Week 13 - Final Plan](https://trello.com/b/LDe5IWqw/week-13-final-plan) board on the course's Trello group
   * please add a brief plan and outline for your group's remaining work
   * this should include any work that is planned towards your group's final project presentation
     * this may include development, research, design, testing, and so on
@@ -85,8 +87,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 12 - 6th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
