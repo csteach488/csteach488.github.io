@@ -39,30 +39,28 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 14 - 19th April 2017
+-->
+
+##### Week 14 - 20th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
-  * extras - final report
-    * [final report outline](/assets/docs/extras/final-report-outline.pdf)
-  * extras - design
-    * [game designers - updated](/assets/docs/extras/game-design-dev/game-designers.pdf)
   * extras - design and dev
     * [dramatic elements](/assets/docs/extras/game-design-dev/game-dramatic-elements.pdf)
     * [formal elements](/assets/docs/extras/game-design-dev/game-formal-elements.pdf)
+  * extras - final report
+    * [final report outline](/assets/docs/extras/final-report-outline.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 14](https://github.com/csteach488/source/tree/master/week14)
-* Please prepare your group's project presentation for Wednesday 26th April 2017
+* Please prepare your group's project presentation for Friday 27th April 2018
   * as detailed in previous classes, this presentation should be an outline of your final group project
   * please consult the [coursework](/coursework) page for further details
   * each presentation should be a maximum of 10 minutes in length
 
-If there are any special hardware or software requirements for next week's presentation, please let me know before Wednesday 26th April 2017.
+If there are any special hardware or software requirements for next week's presentation, please let me know before Friday 27th April 2018.
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 13 - 13th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

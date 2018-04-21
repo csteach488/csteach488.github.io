@@ -23,13 +23,13 @@ There is no specific textbook for this course.
 ##### Week 15 - 26th April 2017
 
 * N/A
+-->
 
-##### Week 14 - 19th April 2017
+##### Week 14 - 20th April 2018
 
 * Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
--->
 
 ##### Week 13 - 13th April 2018
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
