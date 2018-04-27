@@ -18,19 +18,17 @@ summary: weekly assignment for COMP 488
 
 ***
 
-<!--
-#### Week 15 - 26th April 2017
+#### Week 15 - 27th April 2018
 
 * Please complete your group's final project report
-  * suggested report length between 5 and 10 pages
+  * suggested report length approximately 10 pages
 * Further details can be found in the following outline
   * extras - final report
-    * [final report outline](/assets/docs/extras/final-report-outline.pdf)
-* Report must be submitted by 5.15pm on Wednesday 3rd May 2017
+    * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
+* Report must be submitted by 2.45pm on Friday 4rd May 2018
    * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP488 - Final Report)
 * Please share with me a copy of your group's final code. This may include the following options,
-  * GitHub or Bitbucket
-  * zip file containing project code
+  * GitHub
   * Unity ID = ancientlives (ancientlives@gmail.com)
 
 **NB:** Don't forget to add details of each member's contributions to the project, where applicable, in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP488 - Individual Final Report)
@@ -38,8 +36,6 @@ summary: weekly assignment for COMP 488
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 14 - 20th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
