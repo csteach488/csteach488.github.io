@@ -18,6 +18,9 @@ summary: weekly assignment for COMP 488
 
 ***
 
+Course weekly assignment will be updated during the semester.
+
+<!--
 #### Week 15 - 27th April 2018
 
 * Please complete your group's final project report
@@ -343,3 +346,4 @@ Please accept this invite as soon as possible. We shall be using Slack for class
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+-->

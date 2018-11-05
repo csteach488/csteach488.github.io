@@ -20,6 +20,9 @@ There is no specific textbook for this course.
 
 ***
 
+Course bibliography will be updated during the semester.
+
+<!--
 ##### Week 15 - 27th April 2018
 
 * N/A
@@ -113,3 +116,4 @@ There is no specific textbook for this course.
 * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
 * Rieber, L.P. *Multimedia learning in games, simulations, and microworlds.* The Cambridge handbook of multimedia learning. Cambridge University Press. 2005.
 * Van Eck, R.N. "Digital game-based learning." Educause Review 41. 2006. PP.17-30.
+-->

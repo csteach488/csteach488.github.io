@@ -20,6 +20,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
+Course links will be updated during the semester.
+
+<!--
 ##### Articles & Papers
 
   * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
@@ -117,11 +120,6 @@ If you have any suggestions for additions to this section of the site, please fe
     * Drones, small flying machines...
   * [Video Games: The Movie](http://videogamesthemovie.com/)
 
-<!--
-  * [Valley Uprising](http://www.imdb.com/title/tt3784160/)
-    * Climbing in Yosemite valley...
--->
-
 ##### Websites - development
 
   * [Pygame](http://www.pygame.org/lofi.html)
@@ -179,3 +177,4 @@ If you have any suggestions for additions to this section of the site, please fe
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
+-->

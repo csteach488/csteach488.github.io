@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+Course notes will be updated during the semester.
+
+<!--
 ##### Week 15 - 27th April 2018
   * extras - final report
     * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
@@ -115,3 +118,4 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp488-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
+-->
