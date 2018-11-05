@@ -12,6 +12,9 @@ published: true
 summary: course timetable for COMP 488, Spring 2018
 ---
 
+Course timetable will be updated at the start of the semester.
+
+<!--
 #### Class Schedule
 
 This class will meet at the following time and place,
@@ -40,3 +43,4 @@ This class will meet at the following time and place,
   * due Friday 27th April 2018 @ 2.45pm
 * final team report
   * due Friday 4th May 2018 @ 2.45pm
+-->
