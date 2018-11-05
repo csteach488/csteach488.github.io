@@ -18,7 +18,9 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Overview
 
-* assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), DEV Week ([2](#assessment2)), and final demo and report ([3](#assessment3))
+* assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), project outline and mockup ([2](#assessment2)), DEV Week ([3](#assessment3)), and final demo and report ([4](#assessment4))
+	* project outline & mockup
+    * brief group presentation of initial concept and mockup
   * DEV Week demo
     * brief group presentation or demo
   * final demo
@@ -39,23 +41,41 @@ If you have any questions on the following assessments, please [contact](/contac
 
 <a id="assessment1"></a>
 
-##### 1. quizzes or exercises at the end of each course section (40%)
+##### 1. weekly exercises & discussions (20%)
 
-* at least one week notice before quiz
-  * average time ~40 minutes (can be extended if necessary...)
-  * taken towards the end of a class
 * exercises, playtesting...
   * help develop course project
   * test course knowledge at each stage
   * get feedback on project work
+* discussions
+  * sample games, game concepts...
+  * design topics, UI and UX concepts
 * extras
   * code and game reviews
-  * class discussions
   * various other assessments
+  * peer review of demos
 
 <a id="assessment2"></a>
 
-##### 2. DEV Week assessment (30%)
+##### 2. project outline & mockup (15%)
+
+* begin outline and design of a game
+  * builds upon examples, technology outlined during first part of semester
+  * purpose, scope &c. is group's choice
+  * presentation should include mockup designs, concepts or paper prototypes
+
+**n.b.** project outline assessment will include the following:
+
+* brief presentation or demonstration of current project work
+  * ~ 5 to 10 minutes per group
+  * analysis of work conducted so far
+  * presentation and demonstration
+    * outline current state of game concept and design
+    * show prototypes and designs
+
+<a id="assessment3"></a>
+
+##### 3. DEV Week assessment (25%)
 
 * design a game, which may be played by at least one person
   * choose a game genre
@@ -86,9 +106,9 @@ Please contact me to discuss your chosen programming language for this game's de
     * explain what works & does not work
     * ...
 
-<a id="assessment3"></a>
+<a id="assessment4"></a>
 
-##### 3. final assessment (30%)
+##### 4. final assessment (40%)
 
 * final design of game from DEV Week...
   * continue to develop your group's game concept
@@ -102,14 +122,14 @@ Please contact me to discuss your chosen programming language for this game's de
   * perceived benefits of the updates?
 * how did you respond to feedback from DEV Week and onwards...
 
-#### Important assessment dates
+<!-- #### Important assessment dates
 
 * DEV Week demo
   * due Friday 16th March 2018 @ 2.45pm
 * final team demo
   * due Friday 27th April 2018 @ 2.45pm
 * final team report
-  * due Friday 4th May 2018 @ 2.45pm
+  * due Friday 4th May 2018 @ 2.45pm -->
 
 #### Grading
 
