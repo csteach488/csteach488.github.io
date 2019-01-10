@@ -35,7 +35,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-**n.b.** please read the [Course Outline](/assets/docs/extras/game-design-spring-2018.pdf) for further details.
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp488-final-report-outline-2019.pdf)
 
 #### Assessed coursework will include the following primary categories:
 
@@ -122,14 +122,16 @@ Please contact me to discuss your chosen programming language for this game's de
   * perceived benefits of the updates?
 * how did you respond to feedback from DEV Week and onwards...
 
-<!-- #### Important assessment dates
+#### Important assessment dates
 
-* DEV Week demo
-  * due Friday 16th March 2018 @ 2.45pm
+* project outline and mockup
+  * due Friday 15th February 2019 @ 2.45pm
+* DEV week demo
+  * due Friday 22nd March 2019 @ 2.45pm
 * final team demo
-  * due Friday 27th April 2018 @ 2.45pm
+  * due Friday 26th April 2019 @ 2.45pm
 * final team report
-  * due Friday 4th May 2018 @ 2.45pm -->
+  * due Friday 3rd May 2019 @ 2.45pm
 
 #### Grading
 

@@ -8,7 +8,7 @@ categories:
 
 tags: general site home
 published: true
-summary: An Introduction to Game Design and Development, Spring 2018
+summary: An Introduction to Game Design and Development, Spring 2019
 ---
 
 Welcome to the course website for COMP 488, *An Introduction to Game Design and Development*.

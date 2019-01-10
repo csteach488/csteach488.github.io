@@ -10,7 +10,7 @@ categories:
 
 tags: general site social
 published: true
-summary: contact details for COMP 488, Spring 2018
+summary: contact details for COMP 488, Spring 2019
 ---
 
 For course enquiries, please use one of the following contact options
