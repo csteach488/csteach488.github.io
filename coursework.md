@@ -18,7 +18,7 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Overview
 
-* assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), project outline and mockup ([2](#assessment2)), DEV Week ([3](#assessment3)), and final demo and report ([4](#assessment4))
+* assessment will include a combination of semester's exercises ([1](#assessment1)), project outline and mockup ([2](#assessment2)), DEV Week ([3](#assessment3)), and final demo and report ([4](#assessment4))
 	* project outline & mockup
     * brief group presentation of initial concept and mockup
   * DEV Week demo
