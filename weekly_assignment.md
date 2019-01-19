@@ -300,14 +300,16 @@ Further instructions are available on the [Week 2](https://trello.com/b/SYLs1heA
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-
-##### Week 1 - 19th January 2018
+##### Week 1 - 18th January 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras notes,
   * extras - Git
     * [Git basics](/assets/docs/extras/git-basics.pdf)
+* please review the following tutorial video on Git usage,
+  * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
 * Review this week's [bibliography](/bibliography) recommendations
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/ExKpnXNF/week-1-project-details)
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/P8M8lACF/week-1-project-details)
   * project name & game title
   * team members
   * any ideas you are currently considering for this game
@@ -318,22 +320,18 @@ Please read the instructions available on the board, and then create a new list 
 ##### Trello group
 I've now created a Trello group for this course, which is available at the following URL,
 
-  * [COMP 488 - Spring 2018 @ LUC](https://trello.com/csteach488)
+  * [COMP 488 - Spring 2019 @ LUC](https://trello.com/csteach488)
 
-**n.b.** Please add your Trello username to the following spreadsheet,
-
-  * [COMP 488 - Trello Signup](https://docs.google.com/spreadsheets/d/1QpyzTBY47kMYpUqxpwNXkGMcuJjkpI0Rh3T1PECB5lI/edit?usp=sharing)
+I'll send an invite to this group to each student's LUC email address.
 
 If you do not currently have a Trello username, you'll need to register at the following URL,
 
-* Trello - [Signup](https://trello.com/signup)
+  * Trello - [Signup](https://trello.com/signup)
 
 ##### Slack group
-I've also created a Slack group for this course, which is called **COMP 488 - Spring 2018 @ LUC**.
+I've also created a Slack group for this course, which is called **COMP 488**.
 
-Invite link for this group is as follows,
-
-  * [COMP 488 - Spring 2018 @ LUC](https://join.slack.com/t/csteach488/shared_invite/enQtMzAxOTIyNjk1MjIyLTg5Y2RhZDVhZDMyNDk1MTYwNWNiYWIzOWVmYzQ0YThmZGIyZmMzMGFiMmZjZmMxYWFhZDk1Y2IyMGQwY2ZiMzY)
+I'll send an invite to this group to each student's LUC email address.
 
 Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
 
@@ -346,4 +344,3 @@ Please accept this invite as soon as possible. We shall be using Slack for class
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
--->

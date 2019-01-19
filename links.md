@@ -22,11 +22,12 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Course links will be updated during the semester.
 
-<!--
 ##### Articles & Papers
 
-  * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
   * Mayer, R.E., Mautone, P., and Prothero, W. *Pictorial aids for learning by doing in a multimedia geology simulation game.* Journal of Educational Psychology 94. 2002. PP.171-185.
+
+<!--
+  * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
   * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
 
 ##### Designers & Developers
@@ -34,14 +35,17 @@ Course links will be updated during the semester.
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
   * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
   * [Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer))
+-->
 
 ##### Games - play & stream online
 
+  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
+
+<!--
   * [Microsoft's Space Simulator - 1994](https://archive.org/details/msdos_Microsoft_Space_Simulator_1994)
   * [President Elect - 1988 Editions](https://archive.org/details/msdos_President_Elect_-_1988_Edition_1987)
   * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
-  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
   * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
   * [Space Invaders - Sega and Taito](https://archive.org/details/Space_Invaders_1985_Sega_Taito)
   * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
@@ -110,10 +114,13 @@ Course links will be updated during the semester.
   * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
   * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
+-->
 
 ##### Videos - various
 
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
+
+<!--
   * [Ted - Birth of virtual reality as an art form ](https://www.ted.com/talks/chris_milk_the_birth_of_virtual_reality_as_an_art_form)
     * potential of VR as an art form
   * [Ted - Meet the dazzling flying machines of the future ](https://www.ted.com/talks/raffaello_d_andrea_meet_the_dazzling_flying_machines_of_the_future)
@@ -124,16 +131,21 @@ Course links will be updated during the semester.
 
   * [Pygame](http://www.pygame.org/lofi.html)
   * [Python](https://www.python.org/)
+-->
 
 ##### Websites - games
 
+  * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
+  * [BioLogica - Legacy](http://biologica.concord.org/)
+  * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+  * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+
+<!--
   * [Abzu](http://www.505games.com/games/abzu)
   * [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game))
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
   * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
-  * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
-  * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Call of Duty](https://www.callofduty.com/)
   * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
   * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
@@ -141,7 +153,6 @@ Course links will be updated during the semester.
   * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
   * [Diablo III - console](https://us.battle.net/d3/en/console/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
-  * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
   * [Journey](http://thatgamecompany.com/games/journey/)
   * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
   * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
@@ -155,7 +166,6 @@ Course links will be updated during the semester.
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
     * [free download](https://starcraft.com/en-us/articles/20674424)
-  * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
   * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
@@ -173,8 +183,8 @@ Course links will be updated during the semester.
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
+-->
 
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
--->

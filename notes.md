@@ -113,9 +113,9 @@ Course notes will be updated during the semester.
     * [drawing - basic](/assets/docs/extras/pygame/drawing-basic.pdf)
     * [drawing - moving shapes](/assets/docs/extras/pygame/drawing-moving-shapes.pdf)
     * [colours](/assets/docs/extras/pygame/pygame-colours.pdf)
+-->
 
-##### Week 1 - 19th January 2018
-  * [course](/assets/docs/2018/comp488-week1.pdf)
+##### Week 1 - 18th January 2019
+  * [course](/assets/docs/2019/comp488-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
--->
