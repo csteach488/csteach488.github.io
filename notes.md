@@ -103,9 +103,10 @@ Course notes will be updated during the semester.
     * [animation - colour scale](/assets/docs/extras/pygame/animation-colour-scale.pdf)
     * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
     * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
+-->
 
-##### Week 2 - 26th January 2018
-  * [course](/assets/docs/2018/comp488-week2.pdf)
+##### Week 2 - 25th January 2019
+  * [course](/assets/docs/2019/comp488-week2.pdf)
   * extras - Pygame setup
     * [Python & Pygame setup - OS X](/assets/docs/extras/python-install-setup-osx.pdf)
     * [Python & Pygame setup - Windows 10](/assets/docs/extras/python-install-setup-windows.pdf)
@@ -113,7 +114,6 @@ Course notes will be updated during the semester.
     * [drawing - basic](/assets/docs/extras/pygame/drawing-basic.pdf)
     * [drawing - moving shapes](/assets/docs/extras/pygame/drawing-moving-shapes.pdf)
     * [colours](/assets/docs/extras/pygame/pygame-colours.pdf)
--->
 
 ##### Week 1 - 18th January 2019
   * [course](/assets/docs/2019/comp488-week1.pdf)

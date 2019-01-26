@@ -101,14 +101,14 @@ Course bibliography will be updated during the semester.
 * develop. *EA at Grand Rapids*. http://www.develop-online.net/tools-and-tech/grand-rapids/0116020. 2007.
 * David, S. *Game Over: How Nintendo Conquered the World.* Vintage Books. New York. 1994. P.51.
 * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
+-->
 
-##### Week 2 - 26th January 2018
+##### Week 2 - 25th January 2019
 
 * Carroll, J.M. *Making use: Scenario-based design of human-computer interactions.* MIT Press. 2000.
 * Mayer, R.E., and Jackson, J. *The case for coherence in scientific explanations: Quantitative details can hurt qualitative understanding.* Journal of Experimental Psychology: Applied 11. 2005. PP. 13-18.
 * Moreno, R., and Mayer, R.E. *Role of guidance, reflection, and interactivity in an agent-based multimedia game.* Journal of Educational Psychology 97. 2005. PP.117-128.
 * Rieber, L.P., Tzeng, S.C., and Tribble, K. *Discovery learning, representation, and explanation within a computer-based simulation: Finding the right mix.* Learning and Instruction 14. 2004. PP.307-323.
--->
 
 ##### Week 1 - 18th January 2019
 

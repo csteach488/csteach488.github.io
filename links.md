@@ -29,23 +29,26 @@ Course links will be updated during the semester.
 <!--
   * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
   * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
+-->
 
 ##### Designers & Developers
 
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
+
+<!--
   * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
   * [Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer))
 -->
 
 ##### Games - play & stream online
 
-  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
-
-<!--
   * [Microsoft's Space Simulator - 1994](https://archive.org/details/msdos_Microsoft_Space_Simulator_1994)
+  * [The Oregon Trail - Play Online](https://archive.org/details/msdos_Oregon_Trail_The_1990)
   * [President Elect - 1988 Editions](https://archive.org/details/msdos_President_Elect_-_1988_Edition_1987)
   * [SimEarth - 1990](https://archive.org/details/msdos_SimEarth_-_The_Living_Planet_1990)
   * [SimLife - 1992](https://archive.org/details/msdos_SimLife_1992)
+
+<!--
   * [Draughts/Checkers](https://archive.org/details/msdos_festival_CHECKERS)
   * [Space Invaders - Sega and Taito](https://archive.org/details/Space_Invaders_1985_Sega_Taito)
   * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
@@ -71,10 +74,13 @@ Course links will be updated during the semester.
   * Gaming music playlist 2
     * [Taylor Davis - Video Game Covers](https://www.youtube.com/playlist?list=PLABD1A989F27F0162)
   * Really Slow Motion - [YouTube Channel](https://www.youtube.com/user/reallyslowmotion)
+-->
 
 ##### References - Pygame
 
   * [pygame.draw](https://www.pygame.org/docs/ref/draw.html)
+
+<!--
   * [pygame.event](https://www.pygame.org/docs/ref/event.html)
   * [pygame.image](https://www.pygame.org/docs/ref/image.html)
   * [pygame.key](https://www.pygame.org/docs/ref/key.html)
@@ -97,13 +103,19 @@ Course links will be updated during the semester.
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)
   * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
+-->
 
 ##### Videos - notes &c.
 
+  * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
+  * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
+  * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
+  * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
+
+<!--
   * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
   * [BBC - Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk&index=2&list=PLEYdfD3Pd0Xovamy5A5OR3y8uZqtehkH3)
   * [BBC - The Code, YouTube](https://www.youtube.com/watch?v=GKvT1lRWhE0&list=PL8CB2A036D0EAED2A&index=10)
-  * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
   * [GDC - Emergent Behaviour in AI - YouTube](https://www.youtube.com/watch?v=WEeKXx5Byxc)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
@@ -111,9 +123,6 @@ Course links will be updated during the semester.
     * [detailed concept 2](https://www.youtube.com/watch?v=64vZ76XM5mQ)
   * [TED 2004 - Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
     * Mihaly Csikszentmihalyi talks about Flow
-  * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
-  * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
-  * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 -->
 
 ##### Videos - various
@@ -126,12 +135,12 @@ Course links will be updated during the semester.
   * [Ted - Meet the dazzling flying machines of the future ](https://www.ted.com/talks/raffaello_d_andrea_meet_the_dazzling_flying_machines_of_the_future)
     * Drones, small flying machines...
   * [Video Games: The Movie](http://videogamesthemovie.com/)
+-->
 
 ##### Websites - development
 
-  * [Pygame](http://www.pygame.org/lofi.html)
+  * [Pygame](http://www.pygame.org/)
   * [Python](https://www.python.org/)
--->
 
 ##### Websites - games
 
@@ -139,6 +148,7 @@ Course links will be updated during the semester.
   * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
+  * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
 
 <!--
   * [Abzu](http://www.505games.com/games/abzu)
@@ -157,7 +167,6 @@ Course links will be updated during the semester.
   * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
   * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [King's Quest](http://www.sierra.com/kingsquest)
-  * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
   * [The Sims](https://en.wikipedia.org/wiki/The_Sims)

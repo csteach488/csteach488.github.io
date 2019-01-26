@@ -271,8 +271,9 @@ Further instructions are available on the [Week 3](https://trello.com/b/SZXE0dLN
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 2 - 26th January 2018
+##### Week 2 - 25th January 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras
   * extras - Pygame setup
     * [Python & Pygame setup - OS X](/assets/docs/extras/python-install-setup-osx.pdf)
@@ -282,13 +283,15 @@ Enjoy your week.
     * [drawing - moving shapes](/assets/docs/extras/pygame/drawing-moving-shapes.pdf)
     * [colours](/assets/docs/extras/pygame/pygame-colours.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 2](https://github.com/csteach488/source/tree/master/week2)
 * Please ensure you've updated the [Week 1 - Project Details](https://trello.com/b/QEYVLU7m/week-1-project-details) board with your group's project details
-* Add the following details to the [Week 2 - Inspiration & Goals](https://trello.com/b/SYLs1heA/week-2-inspiration-goals) board on the course's Trello group
+* Add the following details to the [Week 2 - Inspiration & Goals](https://trello.com/b/CW9B4Aj1/week-2-inspiration-goals) board on the course's Trello group
   * what was the inspiration for your initial game outline and concept?
   * briefly outline any games that helped to inspire this initial game concept?
   * how would you describe the initial player goals for this game concept?
 
-Further instructions are available on the [Week 2](https://trello.com/b/SYLs1heA/week-2-inspiration-goals) board.
+Further instructions are available on the above Week 2 board.
 
 **n.b.** don't forget to watch the [Ted Pixar video](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life) and play one of the games listed in this week's course notes,
 
@@ -300,7 +303,6 @@ Further instructions are available on the [Week 2](https://trello.com/b/SYLs1heA
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 1 - 18th January 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras notes,
