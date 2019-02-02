@@ -258,6 +258,8 @@ Enjoy your week.
     * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
     * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach488/source/tree/master/week3)
 * Add the following details to the [Week 3 - Goals & Focus](https://trello.com/b/ZsY8VySs/week-3-goals-focus) board on the course's Trello group
   * outline and describe **design and development** goals for your game
     * how do these goals differ, for example, from your game's defined **player experience** goals?
