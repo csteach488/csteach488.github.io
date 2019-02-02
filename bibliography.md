@@ -91,17 +91,17 @@ Course bibliography will be updated during the semester.
   * [pygame.key](https://www.pygame.org/docs/ref/key.html)
   * [pygame.locals](https://www.pygame.org/docs/ref/locals.html)
 * Suits, B. *The Grasshopper: Games, Life and Utopia*. Broadview Press. 3rd Edition. 2014.
-* Wikipedia
-  * [Draughts](https://en.wikipedia.org/wiki/Draughts)
-  * [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
-  * [Zork](https://en.wikipedia.org/wiki/Zork)
+-->
 
-##### Week 3 - 2nd February 2018
+##### Week 3 - 1st February 2019
 
 * develop. *EA at Grand Rapids*. http://www.develop-online.net/tools-and-tech/grand-rapids/0116020. 2007.
 * David, S. *Game Over: How Nintendo Conquered the World.* Vintage Books. New York. 1994. P.51.
 * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
--->
+* Wikipedia
+  * [Draughts](https://en.wikipedia.org/wiki/Draughts)
+  * [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
+  * [Zork](https://en.wikipedia.org/wiki/Zork)
 
 ##### Week 2 - 25th January 2019
 

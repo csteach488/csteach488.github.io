@@ -95,15 +95,15 @@ Course notes will be updated during the semester.
     * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
     * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
     * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
+-->
 
-##### Week 3 - 2nd February 2018
-  * [course](/assets/docs/2018/comp488-week3.pdf)
+##### Week 3 - 1st February 2019
+  * [course](/assets/docs/2019/comp488-week3.pdf)
   * extras - Pygame
     * [getting started](/assets/docs/extras/pygame/getting-started.pdf)
     * [animation - colour scale](/assets/docs/extras/pygame/animation-colour-scale.pdf)
     * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
     * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
--->
 
 ##### Week 2 - 25th January 2019
   * [course](/assets/docs/2019/comp488-week2.pdf)

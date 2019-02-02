@@ -248,8 +248,9 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 3 - 2nd February 2018
+##### Week 3 - 1st February 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame
     * [getting started](/assets/docs/extras/pygame/getting-started.pdf)
@@ -257,21 +258,20 @@ Enjoy your week.
     * [events - interaction](/assets/docs/extras/pygame/events-input.pdf)
     * [control and move](/assets/docs/extras/pygame/move-coordinate-plane.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
-* Add the following details to the [Week 3 - Goals & Focus](https://trello.com/b/SZXE0dLN/week-3-goals-focus) board on the course's Trello group
+* Add the following details to the [Week 3 - Goals & Focus](https://trello.com/b/ZsY8VySs/week-3-goals-focus) board on the course's Trello group
   * outline and describe **design and development** goals for your game
     * how do these goals differ, for example, from your game's defined **player experience** goals?
   * define the top five selling points for your game
     * e.g. imagine you're trying to sell your game idea to investors and playtesters
     * how would you convince them it is a worthwhile game concept?
 
-Further instructions are available on the [Week 3](https://trello.com/b/SZXE0dLN/week-3-goals-focus) board.
+Further instructions are available on the Week 3 board.
 
 **n.b.** if you have time this week, try to play a game designed by Shigeru Miyamoto.
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 2 - 25th January 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras
