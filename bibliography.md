@@ -83,15 +83,15 @@ Course bibliography will be updated during the semester.
 * Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
 * [Abzu](http://www.505games.com/games/abzu)
 * [Journey](http://thatgamecompany.com/games/journey/)
+-->
 
-##### Week 4 - 9th February 2018
+##### Week 4 - 8th February 2019
 
 * Pygame
   * [pygame.event](https://www.pygame.org/docs/ref/event.html)
   * [pygame.key](https://www.pygame.org/docs/ref/key.html)
   * [pygame.locals](https://www.pygame.org/docs/ref/locals.html)
 * Suits, B. *The Grasshopper: Games, Life and Utopia*. Broadview Press. 3rd Edition. 2014.
--->
 
 ##### Week 3 - 1st February 2019
 

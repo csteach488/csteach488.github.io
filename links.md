@@ -52,20 +52,20 @@ Course links will be updated during the semester.
   * [Zork - original version for PDP](https://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
   * [Zork 1 - Apple 2e version](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 
-<!--
-##### Mockup & Prototype Tools - a few examples
+#### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
   * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
-  * [Bootstrap](http://getbootstrap.com/)
+  * [Figma](https://www.figma.com/)
   * [Flinto](https://www.flinto.com/)
   * [Framer](http://framerjs.com/)
   * [Google Drawings](http://goo.gl/qPRCfG)
-  * [Mirror.js](http://jimulabs.com/mirrorjs-preview/) (useful for Android)
+  * [InVision](https://www.invisionapp.com/)
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
+<!--
 ##### Music and Inspiration
 
   * Gaming music playlist 1
@@ -78,8 +78,6 @@ Course links will be updated during the semester.
 ##### References - Pygame
 
   * [pygame.draw](https://www.pygame.org/docs/ref/draw.html)
-
-<!--
   * [pygame.event](https://www.pygame.org/docs/ref/event.html)
   * [pygame.image](https://www.pygame.org/docs/ref/image.html)
   * [pygame.key](https://www.pygame.org/docs/ref/key.html)
@@ -87,7 +85,6 @@ Course links will be updated during the semester.
   * [pygame.sprite](https://www.pygame.org/docs/ref/sprite.html)
   * [pygame.time](https://www.pygame.org/docs/ref/time.html)
   * [pygame.transform](https://www.pygame.org/docs/ref/transform.html)
--->
 
 ##### Videos - games and trailers
 
@@ -129,6 +126,8 @@ Course links will be updated during the semester.
 
 ##### Videos - various
 
+  * Google Prototyping Series
+    * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
 
 <!--
@@ -146,34 +145,34 @@ Course links will be updated during the semester.
 
 ##### Websites - games
 
+  * [Abzu](http://www.505games.com/games/abzu)
+  * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
+  * [Journey](http://thatgamecompany.com/games/journey/)
+  * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
+  * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
   * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
+  * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 
 <!--
-  * [Abzu](http://www.505games.com/games/abzu)
   * [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game))
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
-  * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
   * [Call of Duty](https://www.callofduty.com/)
   * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
   * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
   * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
   * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
   * [Diablo III - console](https://us.battle.net/d3/en/console/)
-  * [Journey](http://thatgamecompany.com/games/journey/)
-  * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
-  * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
   * [King's Quest](http://www.sierra.com/kingsquest)
-  * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
   * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)

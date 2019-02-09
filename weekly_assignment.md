@@ -224,6 +224,7 @@ Further instructions are available on the [Week 5](https://trello.com/b/OlZkZhdi
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
 ##### Week 4 - 9th February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
@@ -242,13 +243,16 @@ Enjoy your week.
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach488/source/tree/master/week4)
+* Please prepare your first presentation and demo for the start of next week's class, Friday 15th February 2019 @ 2.45pm.
+  * further details may be found on the following pages,
+    * [Course Website - Coursework](http://csteach488.github.io/coursework/#assessment2)
+    * [Course Notes - Week 1 - Pages 7 & 8](http://csteach488.github.io/assets/docs/2019/comp488-week1.pdf)
 
 **n.b.** if you have time this week, try to play an example of **Zork**. Playable examples are listed in the [links](/links) section.
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 3 - 1st February 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

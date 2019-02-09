@@ -80,13 +80,15 @@ Course notes will be updated during the semester.
   * [course](/assets/docs/2018/comp488-week5.pdf)
   * extras - Pygame and graphics
     * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
+-->
 
-##### Week 4 - 9th February 2018
-  * [course](/assets/docs/2018/comp488-week4.pdf)
+##### Week 4 - 8th February 2019
+  * [course](/assets/docs/2019/comp488-week4.pdf)
   * extras - game walkthroughs
     * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
     * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
   * extras - design
+    * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
     * [Flowcharts](/assets/docs/extras/game-design-dev/game-plan-flowcharts.pdf)
   * extras - Pygame and sprites
     * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
@@ -95,7 +97,6 @@ Course notes will be updated during the semester.
     * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
     * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
     * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
--->
 
 ##### Week 3 - 1st February 2019
   * [course](/assets/docs/2019/comp488-week3.pdf)
