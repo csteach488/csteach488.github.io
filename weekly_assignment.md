@@ -226,6 +226,44 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+#### Week 5 - 15th February 2019
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Xenophobia](https://goo.gl/forms/nuwXqwIJjbJxNJAs2)
+  * [Group 2 - Permafrost](https://goo.gl/forms/SVFJFVkUCpngsxrC2)
+  * [Group 3 - ChopShop Clicker](https://goo.gl/forms/wd5BRtJkgdCTryok1)
+  * [Group 4 - Aerial Heroes](https://goo.gl/forms/Fyk5TodyNFh211L83) 
+  * [Group 5 - Curro Mortuus](https://goo.gl/forms/SrM8bR0He4JB220o2)
+  * [Group 6 - Interactive Novel](https://goo.gl/forms/IDYUMMlgpMowM7iR2)
+  * [Group 7 - Conquiztador](https://goo.gl/forms/Pzzq3KaQLsxICkEB3)
+  * [Group 8 - Unphasable](https://goo.gl/forms/J1QnSM8D6iaiyx4W2)
+  * [Group 9 - Rhythm Master](https://goo.gl/forms/QV7RKA7Wku3nMwzp1)
+  * [Group 10 - The Stone Cold Stunners](https://goo.gl/forms/mOtO5SYdV6ecFWvH2)
+  * [Group 11 - Honey, I'm Home](https://goo.gl/forms/eDknJoun5l5djRBK2)
+  * [Group 12 - Modular Mecha Machines](https://goo.gl/forms/h52oRCG66w9qdTFX2)
+
+  <!-- * [Group 13 - Waste No Time](https://goo.gl/forms/5WaQcYHZ9LDxadvH3)
+  * [Group 14 - In Medias Res](https://goo.gl/forms/3lcW3RQir2samrqR2)
+  * [Group 15 - Placeholder](https://goo.gl/forms/iswtvaBVWlWOhoHt2)
+  * [Group 16 - C'est ce que c'est](https://goo.gl/forms/zyQyXNawB7wXcYyC2)
+  * [Group 17 - Placeholder Name](https://goo.gl/forms/oWaoddE4MW321fRH2) -->
+  
+* Complete these peer review forms by **Friday 22nd February 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/ZWA62P5W/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Friday 22nd February 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/NWBXuBHF/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Friday 22nd February 2019** at the latest
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 4 - 9th February 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - game walkthroughs

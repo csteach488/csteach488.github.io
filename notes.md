@@ -82,6 +82,9 @@ Course notes will be updated during the semester.
     * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
 -->
 
+##### Week 5 - 15th February 2019
+  * N/A - Presentations
+
 ##### Week 4 - 8th February 2019
   * [course](/assets/docs/2019/comp488-week4.pdf)
   * extras - game walkthroughs
