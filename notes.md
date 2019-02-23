@@ -75,12 +75,12 @@ Course notes will be updated during the semester.
     * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
     * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
     * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
+-->
 
-##### Week 5 - 16th February 2018
-  * [course](/assets/docs/2018/comp488-week5.pdf)
+##### Week 6 - 22nd February 2019
+  * [course](/assets/docs/2019/comp488-week6.pdf)
   * extras - Pygame and graphics
     * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
--->
 
 ##### Week 5 - 15th February 2019
   * N/A - Presentations

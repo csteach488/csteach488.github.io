@@ -33,10 +33,10 @@ Course links will be updated during the semester.
 
 ##### Designers & Developers
 
+  * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 
 <!--
-  * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
   * [Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer))
 -->
 
@@ -65,7 +65,6 @@ Course links will be updated during the semester.
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
-<!--
 ##### Music and Inspiration
 
   * Gaming music playlist 1
@@ -73,7 +72,6 @@ Course links will be updated during the semester.
   * Gaming music playlist 2
     * [Taylor Davis - Video Game Covers](https://www.youtube.com/playlist?list=PLABD1A989F27F0162)
   * Really Slow Motion - [YouTube Channel](https://www.youtube.com/user/reallyslowmotion)
--->
 
 ##### References - Pygame
 
@@ -88,20 +86,20 @@ Course links will be updated during the semester.
 
 ##### Videos - games and trailers
 
-  * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)  
-
-<!--
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
-  * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
-  * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
-  * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
-  * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
-  * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
+  * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)  
+
+<!--
+  * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
+  * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
+  * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
+  * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
+  * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
 -->
 
 ##### Videos - notes &c.
@@ -146,6 +144,7 @@ Course links will be updated during the semester.
 ##### Websites - games
 
   * [Abzu](http://www.505games.com/games/abzu)
+  * [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game))
   * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
@@ -163,7 +162,6 @@ Course links will be updated during the semester.
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 
 <!--
-  * [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game))
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
   * [Call of Duty](https://www.callofduty.com/)
@@ -184,11 +182,12 @@ Course links will be updated during the semester.
 ##### Websites - various
 
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
+  * [GameDev.net](https://www.gamedev.net/)
   * [Global Game Jam](http://globalgamejam.org/)
+  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
 <!--
   
-  * [GameDev.net](https://www.gamedev.net/)
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
   * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
   * [Maxis](https://en.wikipedia.org/wiki/Maxis)
@@ -196,7 +195,6 @@ Course links will be updated during the semester.
     * [Glider](http://conwaylife.com/wiki/Glider)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
-  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 -->
 
 ***

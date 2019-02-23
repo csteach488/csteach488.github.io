@@ -203,28 +203,44 @@ Enjoy your week, and Spring Break.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 5 - 16th February 2018
+##### Week 6 - 22nd February 2019
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 13 - Waste No Time](https://goo.gl/forms/5WaQcYHZ9LDxadvH3)
+  * [Group 14 - In Medias Res](https://goo.gl/forms/3lcW3RQir2samrqR2)
+  * [Group 15 - Lost](https://goo.gl/forms/iswtvaBVWlWOhoHt2)
+  * [Group 16 - Scary game](https://goo.gl/forms/zyQyXNawB7wXcYyC2)
+  * [Group 17 - Iron Rations](https://goo.gl/forms/oWaoddE4MW321fRH2)
+  * [Group 18 - Cave Collapse](https://goo.gl/forms/G0e6GKDQCbpLJQLa2)
+* Complete these peer review forms by **Friday 1st March 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/ZWA62P5W/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Friday 1st March 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/NWBXuBHF/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Friday 1st March 2019** at the latest
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame and graphics
     * [graphics and sprites](/assets/docs/extras/pygame/graphics/graphics-and-sprites.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 5](https://github.com/csteach488/source/tree/master/week5)
-* Add the following details to the [Week 5 - Character Patterns](https://trello.com/b/OlZkZhdi/week-5-character-patterns) board on the course's Trello group
+  * [Source - Week 6](https://github.com/csteach488/source/tree/master/week6)
+* Add the following details to the [Week 6 - Character Patterns](https://trello.com/b/PqswKd8s/week-6-character-patterns) board on the course's Trello group
   * consider your game's characters, and define the following patterns
       * abstract objects and attributes for all of these characters
       * show developer pattern from abstract to specific character
-      * show relationship between character objects and attributes
-
-Further instructions are available on the [Week 5](https://trello.com/b/OlZkZhdi/week-5-character-patterns) board.
 
 **n.b.** if you have time this week, try to play a game designed by Peter Molyneux.
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 5 - 15th February 2019
 * Complete the following peer review forms individually for the DEV Week projects and presentations
