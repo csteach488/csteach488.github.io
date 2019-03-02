@@ -205,6 +205,21 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 7 - 1st March 2019
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
+    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
+    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
+    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 7](https://github.com/csteach488/source/tree/master/week7)
+* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations
+
+Any questions, please let me know.
+
+Enjoy your Spring Break.
+
 ##### Week 6 - 22nd February 2019
 * Complete the following peer review forms individually for the DEV Week projects and presentations
   * [Group 13 - Waste No Time](https://goo.gl/forms/5WaQcYHZ9LDxadvH3)

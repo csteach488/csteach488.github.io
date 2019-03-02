@@ -60,7 +60,9 @@ Course bibliography will be updated during the semester.
 * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
   * [Glider](http://conwaylife.com/wiki/Glider)
 
-##### Week 6 - 23rd February 2018
+-->
+
+##### Week 7 - 1st March 2019
 
 * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
 * Salen, K. & Zimmerman, E. *Rules of Play: Game Design Fundamentals*. MIT Press. 2003.
@@ -72,10 +74,6 @@ Course bibliography will be updated during the semester.
   * [pygame.sprite](https://www.pygame.org/docs/ref/sprite.html)
   * [pygame.time](https://www.pygame.org/docs/ref/time.html)
   * [pygame.transform](https://www.pygame.org/docs/ref/transform.html)
-* Various
-  * [GameDev.net](https://www.gamedev.net/)
-  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
--->
 
 ##### Week 6 - 22nd February 2019
 
@@ -84,6 +82,9 @@ Course bibliography will be updated during the semester.
 * Bogost, I. *Unit Operations: An Approach to Videogame Criticism.* MIT Press. Cambridge, MA. 2006.
 * [Abzu](http://www.505games.com/games/abzu)
 * [Journey](http://thatgamecompany.com/games/journey/)
+* Various
+  * [GameDev.net](https://www.gamedev.net/)
+  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
 ##### Week 5 - 15th February 2019
 

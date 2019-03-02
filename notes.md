@@ -65,17 +65,20 @@ Course notes will be updated during the semester.
   * [course](/assets/docs/2018/comp488-week7.pdf)
   * extras - Pygame
     * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
+    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
+    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
   * extras - design
     * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
     * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
-
-##### Week 6 - 23rd February 2018
-  * [course](/assets/docs/2018/comp488-week6.pdf)
-  * extras - Pygame and sprites
-    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
-    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
-    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
 -->
+
+##### Week 7 - 1st March 2019
+  * [course](/assets/docs/2019/comp488-week7.pdf)
+  * extras - Pygame and sprites
+    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
+    * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
+    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
+    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
 
 ##### Week 6 - 22nd February 2019
   * [course](/assets/docs/2019/comp488-week6.pdf)
@@ -97,9 +100,6 @@ Course notes will be updated during the semester.
     * [sprites - intro](/assets/docs/extras/pygame/sprites/sprites-intro.pdf)
     * [sprites - set image](/assets/docs/extras/pygame/sprites/sprites-set-image.pdf)
     * [sprites - control](/assets/docs/extras/pygame/sprites/sprites-control.pdf)
-    * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
-    * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
-    * [sprites - collision detection](/assets/docs/extras/pygame/sprites/sprites-collision-detection.pdf)
 
 ##### Week 3 - 1st February 2019
   * [course](/assets/docs/2019/comp488-week3.pdf)
