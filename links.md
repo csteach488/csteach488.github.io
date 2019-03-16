@@ -35,10 +35,7 @@ Course links will be updated during the semester.
 
   * [Peter Molyneux - Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
-
-<!--
   * [Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer))
--->
 
 ##### Games - play & stream online
 
@@ -88,6 +85,7 @@ Course links will be updated during the semester.
 
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
+  * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
@@ -97,29 +95,28 @@ Course links will be updated during the semester.
 <!--
   * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
   * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
-  * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
   * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
 -->
 
 ##### Videos - notes &c.
 
+  * [BBC - Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk&index=2&list=PLEYdfD3Pd0Xovamy5A5OR3y8uZqtehkH3)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
     * [detailed concept 1](https://www.youtube.com/watch?list=PL_g8_Y7x37oTYonjybtbxl83KTDpviWBR&v=x48qOA2Z_xQ)
     * [detailed concept 2](https://www.youtube.com/watch?v=64vZ76XM5mQ)
+  * [GDC - Emergent Behaviour in AI - YouTube](https://www.youtube.com/watch?v=WEeKXx5Byxc)
+  * [TED 2004 - Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
+    * Mihaly Csikszentmihalyi talks about Flow
   * [Ted Presentation - The Magic Ingredient...(Pixar)](https://www.ted.com/talks/danielle_feinberg_the_magic_ingredient_that_brings_pixar_movies_to_life)
   * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 
 <!--
   * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
-  * [BBC - Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk&index=2&list=PLEYdfD3Pd0Xovamy5A5OR3y8uZqtehkH3)
   * [BBC - The Code, YouTube](https://www.youtube.com/watch?v=GKvT1lRWhE0&list=PL8CB2A036D0EAED2A&index=10)
-  * [GDC - Emergent Behaviour in AI - YouTube](https://www.youtube.com/watch?v=WEeKXx5Byxc)
-  * [TED 2004 - Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
-    * Mihaly Csikszentmihalyi talks about Flow
 -->
 
 ##### Videos - various
@@ -127,13 +124,13 @@ Course links will be updated during the semester.
   * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
+  * [Video Games: The Movie](http://videogamesthemovie.com/)
 
 <!--
   * [Ted - Birth of virtual reality as an art form ](https://www.ted.com/talks/chris_milk_the_birth_of_virtual_reality_as_an_art_form)
     * potential of VR as an art form
   * [Ted - Meet the dazzling flying machines of the future ](https://www.ted.com/talks/raffaello_d_andrea_meet_the_dazzling_flying_machines_of_the_future)
     * Drones, small flying machines...
-  * [Video Games: The Movie](http://videogamesthemovie.com/)
 -->
 
 ##### Websites - development
@@ -148,6 +145,9 @@ Course links will be updated during the semester.
   * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
+  * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
+  * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
+  * [Diablo III - console](https://us.battle.net/d3/en/console/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
   * [Geniverse - Explore heredity and genetics by breeding and studying virtual dragons](https://concord.org/teaching-genetics/dragons)
   * [Journey](http://thatgamecompany.com/games/journey/)
@@ -156,6 +156,7 @@ Course links will be updated during the semester.
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
   * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
+  * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
@@ -165,14 +166,10 @@ Course links will be updated during the semester.
   * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
     * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
   * [Call of Duty](https://www.callofduty.com/)
-  * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
   * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
   * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
-  * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
-  * [Diablo III - console](https://us.battle.net/d3/en/console/)
   * [King's Quest](http://www.sierra.com/kingsquest)
   * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
-  * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
   * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
     * [free download](https://starcraft.com/en-us/articles/20674424)
@@ -184,15 +181,15 @@ Course links will be updated during the semester.
   * Electronic Arts. Spore Prototypes. [http://www.spore.com/comm/prototypes](http://www.spore.com/comm/prototypes). 2008.
   * [GameDev.net](https://www.gamedev.net/)
   * [Global Game Jam](http://globalgamejam.org/)
+  * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
+  * [Maxis](https://en.wikipedia.org/wiki/Maxis)
+  * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
+  * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
+    * [Glider](http://conwaylife.com/wiki/Glider)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
 <!--
   
-  * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
-  * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
-  * [Maxis](https://en.wikipedia.org/wiki/Maxis)
-  * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
-    * [Glider](http://conwaylife.com/wiki/Glider)
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
 -->

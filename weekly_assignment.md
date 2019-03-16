@@ -205,6 +205,42 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 9 - 15th March 2019
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+    * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
+    * [fun extras - repetitive firing](/assets/docs/extras/pygame/fun-extras/extras-part1-firing.pdf)
+    * [music - intro](/assets/docs/extras/pygame/music/music-intro.pdf)
+    * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
+    * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
+    * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
+  * extras - design
+    * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
+    * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 9](https://github.com/csteach488/source/tree/master/week9)
+* Please prepare, either within your group or individually, your DEV Week demo and presentation. This should include the following
+  * brief presentation or demonstration of current project work
+  * ~ 5 to 10 minutes per group
+  * analysis of work conducted so far
+    * eg: during semester & DEV Week
+  * presentation, demonstration, or video overview...
+    * outline current state of game
+    * show prototypes and designs
+    * explain what works & does not work
+    * ...
+
+Presentations will be scheduled for the start of next week's class, which begins at 2.45pm on Friday 22nd March 2019.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+##### Week 8 - 8th March 2019
+
+* N/A - Spring Break
+
 ##### Week 7 - 1st March 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame

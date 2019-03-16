@@ -46,31 +46,26 @@ Course notes will be updated during the semester.
 
 ##### Week 12 - 6th April 2018
   * [course](/assets/docs/2018/comp488-week12.pdf)
-  * extras - Pygame
-    * [fun extras - repetitive firing](/assets/docs/extras/pygame/fun-extras/extras-part1-firing.pdf)
-    * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
 
-##### Week 10 - 23rd March 2018
-  * [course](/assets/docs/2018/comp488-week10.pdf)
-  * extras - Pygame
-    * [music - intro](/assets/docs/extras/pygame/music/music-intro.pdf)
+-->
 
-##### Week 9 - 16th March 2018
-* N/A - DEV Week
+##### Week 9 - 15th March 2019
 
-##### Week 8 - 9th March 2018
-  * N/A - Spring Break
-
-##### Week 7 - 2nd March 2018
-  * [course](/assets/docs/2018/comp488-week7.pdf)
+  * [course](/assets/docs/2019/comp488-week9.pdf)
   * extras - Pygame
     * [drawing - text](/assets/docs/extras/pygame/drawing-text/drawing-text.pdf)
+    * [fun extras - repetitive firing](/assets/docs/extras/pygame/fun-extras/extras-part1-firing.pdf)
+    * [music - intro](/assets/docs/extras/pygame/music/music-intro.pdf)
+    * [player - health](/assets/docs/extras/pygame/player-health/player-health-intro.pdf)
     * [sprites - animating images](/assets/docs/extras/pygame/sprites/sprites-animating-images.pdf)
     * [sprites - animating random images](/assets/docs/extras/pygame/sprites/sprites-animating-random-images.pdf)
   * extras - design
     * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
     * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
--->
+
+##### Week 8 - 8th March 2019
+
+  * N/A - Spring Break
 
 ##### Week 7 - 1st March 2019
   * [course](/assets/docs/2019/comp488-week7.pdf)

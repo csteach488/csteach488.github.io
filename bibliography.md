@@ -50,9 +50,6 @@ Course bibliography will be updated during the semester.
 ##### Week 9 - 16th March 2018
 * N/A - DEV Week
 
-##### Week 8 - 9th March 2018
-* N/A - Spring Break
-
 ##### Week 7 - 2nd March 2018
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * [LifeWiki](http://conwaylife.com/wiki/Main_Page)
@@ -61,6 +58,17 @@ Course bibliography will be updated during the semester.
   * [Glider](http://conwaylife.com/wiki/Glider)
 
 -->
+
+##### Week 9 - 15th March 2019
+* Csikszentmihalyi, M. *Flow: The Psychology of Optimal Experience.* Harper & Row. New York. 1990.
+* Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
+* [LifeWiki](http://conwaylife.com/wiki/Main_Page)
+* Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
+* [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
+  * [Glider](http://conwaylife.com/wiki/Glider)
+
+##### Week 8 - 8th March 2019
+* N/A - Spring Break
 
 ##### Week 7 - 1st March 2019
 
