@@ -171,9 +171,9 @@ Enjoy your week.
 * Please start to prepare you DEV week group project and demonstration
   * further details are available in the [Coursework](/coursework/#assessment2) section of this site
 * Please add updates on your group's project development to the course's Trello group,
-  * [Week 7 - DEV Week Updates](https://trello.com/b/Qz1aKEay/week-7-dev-week-updates)
-  * I've added instructions on this board
-
+   * [Week 7 - DEV Week Updates](https://trello.com/b/Qz1aKEay/week-7-dev-week-updates)
+   * I've added instructions on this board
+h
 Any questions, please let me know.
 
 Enjoy your week, and Spring Break.
@@ -204,6 +204,49 @@ Any questions, please let me know.
 
 Enjoy your week.
 -->
+
+##### Week 10 - 22nd March 2019
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Cave Collapse](https://goo.gl/forms/WYXqR6OD3gagixjk2)
+  * [Group 2 - Iron Rations](https://goo.gl/forms/abV6IEpiucR6jLAi2)
+  * [Group 3 - Scary Game](https://goo.gl/forms/aWRoB19XQC5L1chm1)
+  * [Group 4 - Lost](https://goo.gl/forms/YothpmE2UkuGoJOY2)
+  * [Group 5 - Waste No Time](https://goo.gl/forms/mLORy4OO5J24tU4J2)
+  * [Group 6 - Honey, I'm Home](https://goo.gl/forms/yFWEhae5r70bl1PN2)
+  * [Group 7 - The Stone Cold Stunners](https://goo.gl/forms/nemKoKG5TIxk1o1s1)
+  * [Group 8 - Unphasable](https://goo.gl/forms/9ZayWF42A7boa0ay2)
+  * [Group 9 - Conquiztador](https://goo.gl/forms/HS4RiJmNMOtC2Hyu1)
+  * [Group 10 - Interactive Novel](https://goo.gl/forms/NdGcXmnnpCMiTCVG2)
+  * [Group 11 - Curro Mortuus](https://goo.gl/forms/rymB2cFIiX4Aj81u2)
+  * [Group 12 - Aerial Heroes](https://goo.gl/forms/o7Va87TLXDQNKw002)
+  * [Group 13 - ChopShop Clicker](https://goo.gl/forms/5OrO7nNJqkpZPC5g2)
+  
+<!--
+  * [Group 14 - Beat Battle](https://goo.gl/forms/6nm4TIemBPczDTdB2)
+  * [Group 15 - Modular Mecha Machines](https://goo.gl/forms/5c4FyTUu4z3pJm7f1)
+  * [Group 16 - Permafrost](https://goo.gl/forms/ymnjth6x7I2bfkeT2)
+  * [Group 17 - Xenophobia](https://goo.gl/forms/SG8RMcGhj29jmdGH3)
+  * [Group 18 - In Media Res](https://goo.gl/forms/f4NyDgTsKp4YllD82)
+-->
+
+* Complete these peer review forms by **Friday 29th March 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation Files](https://trello.com/b/sjad5TSc/week-10-presentation-files)
+  * Please add these files as soon as possible, and by **Friday 29th March 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/71vDvak6/week-10-project-contributions    )
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Friday 29th March 2019** at the latest
+
+**n.b.** if you have time this week, try to play a game designed by Will Wright.
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 9 - 15th March 2019
 
