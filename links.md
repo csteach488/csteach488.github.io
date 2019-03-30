@@ -25,11 +25,8 @@ Course links will be updated during the semester.
 ##### Articles & Papers
 
   * Mayer, R.E., Mautone, P., and Prothero, W. *Pictorial aids for learning by doing in a multimedia geology simulation game.* Journal of Educational Psychology 94. 2002. PP.171-185.
-  * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
-
-<!--
   * [The Legend of Zelda walkthrough](/assets/docs/extras/game-walkthroughs/LegendofZelda.pdf)
--->
+  * [Zork game walkthrough](/assets/docs/extras/game-walkthroughs/zork-outline-1995.pdf)
 
 ##### Designers & Developers
 
@@ -85,6 +82,7 @@ Course links will be updated during the semester.
 
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
+  * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
   * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
@@ -93,7 +91,6 @@ Course links will be updated during the semester.
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)  
 
 <!--
-  * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
   * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
   * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
   * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
@@ -102,6 +99,7 @@ Course links will be updated during the semester.
 ##### Videos - notes &c.
 
   * [BBC - Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk&index=2&list=PLEYdfD3Pd0Xovamy5A5OR3y8uZqtehkH3)
+  * [BBC - The Code, YouTube](https://www.youtube.com/watch?v=GKvT1lRWhE0&list=PL8CB2A036D0EAED2A&index=10)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
   * Paper Prototyping
     * [initial concept 1](https://www.youtube.com/watch?v=FhrrkjMsLQ8)
@@ -116,7 +114,6 @@ Course links will be updated during the semester.
 
 <!--
   * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
-  * [BBC - The Code, YouTube](https://www.youtube.com/watch?v=GKvT1lRWhE0&list=PL8CB2A036D0EAED2A&index=10)
 -->
 
 ##### Videos - various
@@ -159,6 +156,7 @@ Course links will be updated during the semester.
   * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
+  * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
 
@@ -173,7 +171,6 @@ Course links will be updated during the semester.
   * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
   * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
     * [free download](https://starcraft.com/en-us/articles/20674424)
-  * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
 -->
 
 ##### Websites - various
@@ -186,12 +183,12 @@ Course links will be updated during the semester.
   * [Object Oriented aggregation](https://atomicobject.com/resources/oo-programming/object-oriented-aggregation)
   * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
     * [Glider](http://conwaylife.com/wiki/Glider)
+  * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
   * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
 <!--
   
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
-  * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
 -->
 
 ***

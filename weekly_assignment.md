@@ -205,6 +205,33 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 11 - 29th March 2019
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 14 - Beat Battle](https://goo.gl/forms/6nm4TIemBPczDTdB2)
+  * [Group 15 - Modular Mecha Machines](https://goo.gl/forms/5c4FyTUu4z3pJm7f1)
+  * [Group 16 - Permafrost](https://goo.gl/forms/ymnjth6x7I2bfkeT2)
+  
+  <!-- 
+	* [Group 17 - Xenophobia](https://goo.gl/forms/SG8RMcGhj29jmdGH3)
+  * [Group 18 - In Media Res](https://goo.gl/forms/f4NyDgTsKp4YllD82) 
+  -->
+  
+* Complete these peer review forms by **Friday 5th April 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Pygame
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 11](https://github.com/csteach488/source/tree/master/week11)
+
+**n.b.** if you have time this week, try to play a game designed by Will Wright.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 10 - 22nd March 2019
 * Complete the following peer review forms individually for the DEV Week projects and presentations
   * [Group 1 - Cave Collapse](https://goo.gl/forms/WYXqR6OD3gagixjk2)
@@ -220,15 +247,6 @@ Enjoy your week.
   * [Group 11 - Curro Mortuus](https://goo.gl/forms/rymB2cFIiX4Aj81u2)
   * [Group 12 - Aerial Heroes](https://goo.gl/forms/o7Va87TLXDQNKw002)
   * [Group 13 - ChopShop Clicker](https://goo.gl/forms/5OrO7nNJqkpZPC5g2)
-  
-<!--
-  * [Group 14 - Beat Battle](https://goo.gl/forms/6nm4TIemBPczDTdB2)
-  * [Group 15 - Modular Mecha Machines](https://goo.gl/forms/5c4FyTUu4z3pJm7f1)
-  * [Group 16 - Permafrost](https://goo.gl/forms/ymnjth6x7I2bfkeT2)
-  * [Group 17 - Xenophobia](https://goo.gl/forms/SG8RMcGhj29jmdGH3)
-  * [Group 18 - In Media Res](https://goo.gl/forms/f4NyDgTsKp4YllD82)
--->
-
 * Complete these peer review forms by **Friday 29th March 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
@@ -241,8 +259,6 @@ Enjoy your week.
   * [Week 10 - Project Contributions](https://trello.com/b/71vDvak6/week-10-project-contributions    )
   * this board is **important** - it will help to establish member contributions for the project
   * please complete this requirement by **Friday 29th March 2019** at the latest
-
-**n.b.** if you have time this week, try to play a game designed by Will Wright.
 
 Any questions, please let me know.
 
@@ -261,6 +277,7 @@ Enjoy your week.
   * extras - design
     * [design mockups & prototypes](/assets/docs/extras/game-design-dev/design-mockups-gaming.pdf)
     * [playtesting and design](/assets/docs/extras/game-design-dev/game-playtesting.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 9](https://github.com/csteach488/source/tree/master/week9)
 * Please prepare, either within your group or individually, your DEV Week demo and presentation. This should include the following
@@ -291,6 +308,7 @@ Enjoy your week.
     * [sprites - collision detection - better](/assets/docs/extras/pygame/sprites/sprites-collision-detection-better.pdf)
     * [sprites - more objects](/assets/docs/extras/pygame/sprites/sprites-more-objects.pdf)
     * [sprites - relative objects](/assets/docs/extras/pygame/sprites/sprites-relative-objects.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 7](https://github.com/csteach488/source/tree/master/week7)
 * Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations

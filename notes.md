@@ -29,7 +29,6 @@ Course notes will be updated during the semester.
   * [course](/assets/docs/2018/comp488-week14.pdf)
   * extras - design and dev
     * [dramatic elements](/assets/docs/extras/game-design-dev/game-dramatic-elements.pdf)
-    * [formal elements](/assets/docs/extras/game-design-dev/game-formal-elements.pdf)
   * extras - final report
     * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
 
@@ -39,15 +38,16 @@ Course notes will be updated during the semester.
     * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
   * extras - final report
     * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
-  * extras - game example
-    * [shootemup game](/assets/docs/extras/pygame/game-examples/shooter.pdf)
+-->
+
+##### Week 11 - 29th March 2019
+  * [course](/assets/docs/2019/comp488-week11.pdf)
   * extras - Pygame
     * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
-
-##### Week 12 - 6th April 2018
-  * [course](/assets/docs/2018/comp488-week12.pdf)
-
--->
+  * extras - design and dev
+    * [formal elements](/assets/docs/extras/game-design-dev/game-formal-elements.pdf)
+  * extras - game example
+    * [shootemup game](/assets/docs/extras/pygame/game-examples/shooter.pdf)
 
 ##### Week 10 - 22nd March 2019
   * N/A - Presentations
