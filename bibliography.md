@@ -32,13 +32,13 @@ Course bibliography will be updated during the semester.
 * Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
+-->
 
-##### Week 13 - 13th April 2018
+##### Week 12 - 5th April 2019
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
 * Murray, J. *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*. Free Press. New York. 1997.
 * Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
 * Salen, K. & Zimmerman, E. *Rules of Play: Game Design Fundamentals*. MIT Press. 2003.
--->
 
 ##### Week 11 - 29th March 2019
 * Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.

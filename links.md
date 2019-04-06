@@ -155,7 +155,10 @@ Course links will be updated during the semester.
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
   * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
+  * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
   * [Spore - 2008](https://en.wikipedia.org/wiki/Spore_(2008_video_game))
+  * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
+    * [free download](https://starcraft.com/en-us/articles/20674424)
   * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
@@ -168,9 +171,8 @@ Course links will be updated during the semester.
   * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
   * [King's Quest](http://www.sierra.com/kingsquest)
   * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
-  * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
-  * [StarCraft](http://us.blizzard.com/en-us/games/sc/)
-    * [free download](https://starcraft.com/en-us/articles/20674424)
+  * 
+  * 
 -->
 
 ##### Websites - various
@@ -184,12 +186,8 @@ Course links will be updated during the semester.
   * [Richard Guy](http://conwaylife.com/wiki/Richard_Guy)
     * [Glider](http://conwaylife.com/wiki/Glider)
   * [The Sims - Free Will](http://sims.wikia.com/wiki/Free_will)
-  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
-
-<!--
-  
   * [Theban Mapping Project - KV 17](http://www.thebanmappingproject.com/sites/browse_tomb_831.html)
--->
+  * [Video Game Design Schools](https://www.gamedesigning.org/video-game-design-schools/)
 
 ***
 

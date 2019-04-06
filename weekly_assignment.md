@@ -205,6 +205,21 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 12 - 5th April 2019
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - design and dev
+    * [dramatic elements](/assets/docs/extras/game-design-dev/game-dramatic-elements.pdf)
+  * extras - unity
+    * [getting started](/assets/docs/extras/unity/notes-getting-started.pdf)
+* Review this week's [bibliography](/bibliography) recommendations
+* Review the code examples posted to the **source** repository on the course's GitHub account
+* Please continue design and development of your group's project
+  * this should include research and development in preparation for the Final Demo and Presentation
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 11 - 29th March 2019
 * Complete the following peer review forms individually for the DEV Week projects and presentations
   * [Group 14 - Beat Battle](https://goo.gl/forms/6nm4TIemBPczDTdB2)
@@ -222,6 +237,11 @@ Enjoy your week.
 * You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Pygame
+    * [fun extras - explosions](/assets/docs/extras/pygame/fun-extras/extras-part1-explosions.pdf)
+  * extras - design and dev
+    * [formal elements](/assets/docs/extras/game-design-dev/game-formal-elements.pdf)
+  * extras - game example
+    * [shootemup game](/assets/docs/extras/pygame/game-examples/shooter.pdf)
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 11](https://github.com/csteach488/source/tree/master/week11)
