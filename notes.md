@@ -26,17 +26,15 @@ Course notes will be updated during the semester.
     * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
 
 ##### Week 14 - 20th April 2018
-  * [course](/assets/docs/2018/comp488-week14.pdf)
-  * extras - final report
-    * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
+  * N/A
+  * -->
 
-##### Week 13 - 13th April 2018
-  * [course](/assets/docs/2018/comp488-week13.pdf)
+<!-- ##### Week 13 - 12th April 2019
+  * [course](/assets/docs/2019/comp488-week13.pdf)
   * extras - design
     * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
   * extras - final report
-    * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
--->
+    * [final report outline](/assets/docs/extras/comp488-final-report-outline-2019.pdf) -->
 
 ##### Week 12 - 5th April 2019
   * [course](/assets/docs/2019/comp488-week12.pdf)
@@ -44,6 +42,7 @@ Course notes will be updated during the semester.
     * [dramatic elements](/assets/docs/extras/game-design-dev/game-dramatic-elements.pdf)
   * extras - unity
     * [getting started](/assets/docs/extras/unity/notes-getting-started.pdf)
+    * [basic usage](/assets/docs/extras/unity/notes-basic-usage.pdf)
 
 ##### Week 11 - 29th March 2019
   * [course](/assets/docs/2019/comp488-week11.pdf)

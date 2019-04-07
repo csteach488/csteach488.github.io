@@ -83,21 +83,19 @@ Course links will be updated during the semester.
   * [Abzu trailer - YouTube](https://www.youtube.com/watch?v=bpvHqAsNVH0)
   * [Animal Crossing](https://www.youtube.com/watch?v=ADIZLsnArOs)
   * [BBC News - World of Warcraft - YouTube](https://www.youtube.com/watch?v=Y-WiTw7nrz4)
+  * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
   * [Colin McRae Rally - YouTube](https://www.youtube.com/watch?v=Ig5qQR6_9cw)
   * [Journey PS4 trailer - YouTube](https://www.youtube.com/watch?v=aYSQAhw_Nrg)
+  * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
+  * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
   * [Populous on the Amiga - Youtube](ttps://www.youtube.com/embed/vEJPlseI57o)
   * [Sid Meier's Civilization, Youtube](https://youtu.be/PtK388b9drE?t=1m5s)
   * [The Last Starfighter, YouTube](https://youtu.be/H7NaxBxFWSo)
   * [Super Mario Bros. - Level 1](https://www.youtube.com/watch?v=PsC0zIhWNww)  
 
-<!--
-  * [Black and White review - YouTube](https://www.youtube.com/watch?v=IjMBJ8_-sss)
-  * [King's Quest, Dead End Dancer - YouTube](https://www.youtube.com/watch?v=Sv74rpRZUXU)
-  * [Last moments of Asheron's Call - YouTube](https://www.youtube.com/watch?v=o77BL-hCHxA)
--->
-
 ##### Videos - notes &c.
 
+  * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
   * [BBC - Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk&index=2&list=PLEYdfD3Pd0Xovamy5A5OR3y8uZqtehkH3)
   * [BBC - The Code, YouTube](https://www.youtube.com/watch?v=GKvT1lRWhE0&list=PL8CB2A036D0EAED2A&index=10)
   * [Bryan Alexander - Preparing Teachers and Students to Succeed in an Open-Ended Future](https://vimeo.com/34588627)
@@ -112,23 +110,16 @@ Course links will be updated during the semester.
   * [The Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 
-<!--
-  * [8-bit and '8-bitish' graphics](https://youtu.be/aMcJ1Jvtef0)
--->
-
 ##### Videos - various
 
   * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
-  * [Video Games: The Movie](http://videogamesthemovie.com/)
-
-<!--
   * [Ted - Birth of virtual reality as an art form ](https://www.ted.com/talks/chris_milk_the_birth_of_virtual_reality_as_an_art_form)
     * potential of VR as an art form
   * [Ted - Meet the dazzling flying machines of the future ](https://www.ted.com/talks/raffaello_d_andrea_meet_the_dazzling_flying_machines_of_the_future)
     * Drones, small flying machines...
--->
+  * [Video Games: The Movie](http://videogamesthemovie.com/)
 
 ##### Websites - development
 
@@ -139,10 +130,15 @@ Course links will be updated during the semester.
 
   * [Abzu](http://www.505games.com/games/abzu)
   * [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game))
+  * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
+    * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
   * [Atari Asteroids](ttps://en.wikipedia.org/wiki/Asteroids_(video_game))
   * [BioLogica - Current](https://concord.org/teaching-genetics/dragons)
   * [BioLogica - Legacy](http://biologica.concord.org/)
+  * [Call of Duty](https://www.callofduty.com/)
   * [Colin McRae Rally](http://pcgamingwiki.com/wiki/Colin_McRae_Rally)
+  * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
+  * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
   * [Diablo - Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game))
   * [Diablo III - console](https://us.battle.net/d3/en/console/)
   * [Draughts/Checkers](https://en.wikipedia.org/wiki/Draughts)
@@ -150,9 +146,11 @@ Course links will be updated during the semester.
   * [Journey](http://thatgamecompany.com/games/journey/)
   * [Journey - PS3](https://www.playstation.com/en-us/games/journey-ps3/)
   * [Journey - Wikipedia](https://en.wikipedia.org/wiki/Journey_(2012_video_game))
+  * [King's Quest](http://www.sierra.com/kingsquest)
   * [The Oregon Trail - Wikipedia entry](https://en.wikipedia.org/wiki/The_Oregon_Trail_(video_game))
   * [Physics of a Bouncing Ball](https://en.wikipedia.org/wiki/Bouncing_ball)
   * [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))
+  * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
   * [The Sims](https://en.wikipedia.org/wiki/The_Sims)
   * [Space Invaders - Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)
   * [Space Quest](https://en.wikipedia.org/wiki/Space_Quest)
@@ -162,18 +160,6 @@ Course links will be updated during the semester.
   * [World of Warcraft](http://us.blizzard.com/en-us/games/wow/)
   * [Zork - Downloads](https://www.infocom-if.org/downloads/downloads.html)
     * [Zork 1 walkthrough - very useful](http://www.eristic.net/games/infocom/zork1.html)
-
-<!--
-  * [Asheron's Call - Wikipedia](https://en.wikipedia.org/wiki/Asheron%27s_Call)
-    * [Witness the last moments of Asheron's Call...](http://www.pcgamer.com/witness-the-last-moments-of-asherons-call-a-17-year-old-mmo/)
-  * [Call of Duty](https://www.callofduty.com/)
-  * [Command & Conquer](https://www.ea.com/games/command-and-conquer)
-  * [Deus Ex Wiki](http://deusex.wikia.com/wiki/Deus_Ex)
-  * [King's Quest](http://www.sierra.com/kingsquest)
-  * [Rainbow Six Siege](https://rainbow6.ubisoft.com/siege/en-gb/home/)
-  * 
-  * 
--->
 
 ##### Websites - various
 
