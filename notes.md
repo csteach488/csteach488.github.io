@@ -29,12 +29,12 @@ Course notes will be updated during the semester.
   * N/A
   * -->
 
-<!-- ##### Week 13 - 12th April 2019
+##### Week 13 - 12th April 2019
   * [course](/assets/docs/2019/comp488-week13.pdf)
   * extras - design
     * [game designers](/assets/docs/extras/game-design-dev/game-designers.pdf)
   * extras - final report
-    * [final report outline](/assets/docs/extras/comp488-final-report-outline-2019.pdf) -->
+    * [final report outline](/assets/docs/extras/comp488-final-report-outline-2019.pdf)
 
 ##### Week 12 - 5th April 2019
   * [course](/assets/docs/2019/comp488-week12.pdf)

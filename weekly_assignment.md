@@ -205,7 +205,7 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
-<!-- ##### Week 13 - 12th April 2019
+##### Week 13 - 12th April 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * [course](/assets/docs/2019/comp488-week13.pdf)
   * extras - design
@@ -215,7 +215,7 @@ Enjoy your week.
 * Review this week's [bibliography](/bibliography) recommendations
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 13]()
-* Add the following details to the [Week 13 - Final Plan]() board on the course's Trello group
+* Add the following details to the [Week 13 - Final Plan](https://trello.com/b/WXBwA7hj/week-13-final-plan) board on the course's Trello group
   * please add a brief plan and outline for your group's remaining work
   * this should include any work that is planned towards your group's final project presentation
     * this may include development, research, design, testing, and so on
@@ -224,7 +224,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week. -->
+Enjoy your week.
 
 ##### Week 12 - 5th April 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

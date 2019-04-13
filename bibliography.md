@@ -28,11 +28,11 @@ Course bibliography will be updated during the semester.
 * N/A
 -->
 
-<!-- ##### Week 13 - 12th April 2019
+##### Week 13 - 12th April 2019
 
 * Bogost, I. *Persuasive Games: The Expressive Power of Videogames*. MIT Press. Cambridge, MA. 2007.
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
-* Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002. -->
+* Poundstone, W. *Prisoner's Dilemma.* Touchstone. New York. 2002.
 
 ##### Week 12 - 5th April 2019
 * Huizinga, J. *Homo Ludens: A Study of the Play-Element in Culture*. Angelico Press. 2016.
