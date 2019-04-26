@@ -22,11 +22,14 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-<!--
-##### Week 15 - 27th April 2018
+
+##### Week 15 - 26th April 2019
 
 * N/A
--->
+
+##### Week 14 - 19th April 2019
+
+* N/A - Easter
 
 ##### Week 13 - 12th April 2019
 

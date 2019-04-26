@@ -20,14 +20,12 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
-<!--
-##### Week 15 - 27th April 2018
+##### Week 15 - 26th April 2019
   * extras - final report
-    * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
+    * [final report outline](/assets/docs/extras/comp488-final-report-outline-2019.pdf)
 
-##### Week 14 - 20th April 2018
-  * N/A
-  * -->
+##### Week 14 - 19th April 2019
+  * N/A - Easter
 
 ##### Week 13 - 12th April 2019
   * [course](/assets/docs/2019/comp488-week13.pdf)

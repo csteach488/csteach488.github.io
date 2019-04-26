@@ -21,25 +21,6 @@ summary: weekly assignment for COMP 488
 Course weekly assignment will be updated during the semester.
 
 <!--
-#### Week 15 - 27th April 2018
-
-* Please complete your group's final project report
-  * suggested report length approximately 10 pages
-* Further details can be found in the following outline
-  * extras - final report
-    * [final report outline](/assets/docs/extras/final-report-outline-2018.pdf)
-* Report must be submitted by 2.45pm on Friday 4rd May 2018
-   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP488 - Final Report)
-* Please share with me a copy of your group's final code. This may include the following options,
-  * GitHub
-  * Unity ID = ancientlives (ancientlives@gmail.com)
-
-**NB:** Don't forget to add details of each member's contributions to the project, where applicable, in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP488 - Individual Final Report)
-
-Any questions, please let me know.
-
-Enjoy your week.
-
 ##### Week 14 - 20th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - design and dev
@@ -204,6 +185,28 @@ Any questions, please let me know.
 
 Enjoy your week.
 -->
+
+#### Week 15 - 26th April 2019
+
+* Please complete your group's final project report
+  * suggested report length approximately 10 pages
+* Further details can be found in the following outline
+  * extras - final report
+    * [final report outline](/assets/docs/extras/comp488-final-report-outline-2019.pdf)
+* Report must be submitted by 2.45pm on Friday 3rd May 2019
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP488 - Final Report)
+* Please share with me a copy of your group's final code. This may include the following options,
+  * GitHub
+  * Unity ID = ancientlives (ancientlives@gmail.com)
+
+**NB:** Don't forget to add details of each member's contributions to the project, where applicable, in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP488 - Individual Final Report)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+##### Week 14 - 19th April 2019
+* N/A - Easter
 
 ##### Week 13 - 12th April 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
